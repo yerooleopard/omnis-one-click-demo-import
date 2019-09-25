@@ -1,0 +1,27 @@
+{
+  "name": "omnis-one-click-demo-import",
+  "version": "1.0.0",
+  "description": "=== One Click Demo Import === Contributors: smub, proteusthemes Tags: import, content, demo, data, widgets, settings, redux, theme options Requires at least: 4.0.0 Tested up to: 5.2.2 Stable tag: 2.5.2 License: GPLv3 or later",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-compress": "^1.5.0"
+  },
+  "dependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-compress": "^1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yerooleopard/omnis-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yerooleopard/omnis-core/issues"
+  },
+  "homepage": "https://github.com/yerooleopard/omnis-core#readme"
+}
