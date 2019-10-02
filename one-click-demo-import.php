@@ -11,7 +11,7 @@ Text Domain: pt-ocdi
 */
 
 // MODIFIED 2.5.2
-// line 55
+// :line 55 - added - require_once  plugin_dir_path( __FILE__ )  . 'omnis-data/data/omnis-import-data.php';
 // New-folder omnis-data
 // Modified assets/js/main.js
 // Modified views/plugin-page.php

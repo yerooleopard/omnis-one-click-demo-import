@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+    <channel>
+        <item>
+            <title>Page - About - Slim</title>
+            <guid isPermaLink="false">https://demo.loprd.pl/omnis/?page_id=3770</guid>
+            <description></description>
+            <content:encoded><![CDATA[[vc_row row_container_height_custom="80vh" row_background_color="#a0a0a0" row_background_image_effect="parallax parallax-v" row_background_image_parallax_level="5" row_background_image_external="https://source.unsplash.com/KOdFkwuT2Wo/2000x1300"][vc_column][/vc_column][/vc_row][vc_row row_rows_gap="single"][vc_column width="1/3"][vc_empty_space empty_height="half"][vc_custom_heading heading_text="Our studio in a nutshell." heading_container="h5" heading_color="rgb(150, 150, 150)"][/vc_column][vc_column width="2/3"][vc_custom_heading heading_text="Nunc mollis urna eget volutpat vehicula." heading_container="h2" heading_typography="size-class:h1-alt"][vc_empty_space][vc_custom_heading heading_text="Etiam ut enim pulvinar, scelerisque arcu sit amet, maximus dui. Donec nulla quam, eleifend non dui et, porttitor vulputate dolor. Maecenas dictum rhoncus nunc ut aliquet. Suspendisse vitae purus lorem. Fusce ac metus odio. Sed semper erat in nisi congue fermentum." heading_typography="size-class:leading-size"][vc_empty_space][vc_icon type="material" icon_material="vc-material vc-material-arrow_drop_down" icon_typography="font-size:30" icon_style="bg" icon_bg_shadow="drop-shadow" icon_text_color="#ffffff" icon_bg_color="#252525"][/vc_column][/vc_row][vc_row][vc_column][vc_single_image image_width="1300" image_ratio="4:3" image_external="https://source.unsplash.com/m0oSTE_MjsI/1300x800"][/vc_column][/vc_row][vc_row row_rows_gap="single"][vc_column width="1/3"][vc_empty_space empty_height="quarter"][vc_custom_heading heading_text="Our main goals." heading_container="h5" heading_color="rgb(150, 150, 150)"][/vc_column][vc_column width="2/3"][vc_custom_heading heading_text="Vestibulum consectetur dui at tempus gravida. Aliquam maximus mauris non metus aliquam, ultrices consequat sem euismod. Vivamus volutpat ullamcorper arcu, sed dictum nisl tristique quis. Morbi ornare diam a sapien aliquam, congue cursus quam dapibus." heading_typography="size-class:leading-size"][/vc_column][/vc_row][vc_section section_content_txt_skin="txt--dark" section_background_color="#ffffff"][vc_row row_rows_gap="single"][vc_column width="1/3"][vc_empty_space empty_height="quarter"][vc_custom_heading heading_text="Services." heading_container="h5" heading_color="rgb(150, 150, 150)"][/vc_column][vc_column width="2/3"][vc_row_inner row_text_typo="size-class:leading-size"][vc_column_inner width="1/2"][vc_custom_heading heading_text="Development" heading_container="h3"][vc_column_text]
+    <ul class="simple separated">
+        <li>Back-End Development</li>
+        <li>Front-End Development</li>
+        <li>E-commerce</li>
+        <li>Websites</li>
+        <li>iOS &amp; Android Apps</li>
+        <li>UI &amp; UX</li>
+    </ul>
+    [/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_custom_heading heading_text="Design" heading_container="h3"][vc_column_text]
+    <ul class="simple separated">
+        <li>Brand Identity</li>
+        <li>Creative Direction</li>
+        <li>Art Direction</li>
+    </ul>
+    [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_section_padding="padding-side:none|padding-top:none" row_section_container_width="stretched"][vc_column][vc_text_separator style="zigzag" separator_size="large"][/vc_column][/vc_row][vc_row row_rows_gap="single"][vc_column width="1/3"][vc_custom_heading heading_text="Our thoughts." heading_container="h5" heading_color="rgb(150, 150, 150)"][/vc_column][vc_column width="2/3"][loprd_loop loop="size:4|order_by:date" _grid_columns="desktop:12|tablet:12" grid_rows_gap="half" post_layout="lateral" post_layout_lateral_thumb="left" post_layout_lateral_ratio="1-2" post_layout_lateral_gap="single" post_meta="`{`omnis_author avatar=``false```}``{`omnis_date`}`" post_alignment_v="top" post_drop_shadow="" post_content_padding="padding-side:none|padding-top:none|padding-bottom:single" post_content_el_padding="meta:half" post_title_typo="font-size:22"][vc_button2 title="Read more articles →" button_color="btn-light" button_size="btn-lg" link="url:%23|||"][/vc_column][/vc_row][/vc_section][vc_row row_rows_gap="single"][vc_column width="1/3"][vc_empty_space empty_height="quarter"][vc_custom_heading heading_text="Contact us." heading_container="h5"][/vc_column][vc_column width="2/3"][vc_column_text]
+    <h3>Etiam ut enim pulvinar, scelerisque arcu sit amet, maximus dui. Donec nulla quam, eleifend non dui et, porttitor vulputate dolor.</h3>
+    [/vc_column_text][vc_empty_space][vc_button2 title="Contact us →" button_color="btn-light" button_size="btn-lg" link="url:%23|||"][/vc_column][/vc_row]]]></content:encoded>
+            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+            <wp:post_id>3770</wp:post_id>
+            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+            <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+            <wp:post_name><![CDATA[page-about-slim]]></wp:post_name>
+            <wp:status><![CDATA[publish]]></wp:status>
+            <wp:post_parent>2045</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type><![CDATA[page]]></wp:post_type>
+            <wp:post_password><![CDATA[]]></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+                                                            <wp:postmeta>
+            <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+            <wp:meta_value><![CDATA[1]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[default]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[default]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+            <wp:meta_value><![CDATA[true]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__page-image]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:9:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";s:5:"title";s:0:"";s:7:"caption";s:0:"";s:3:"alt";s:0:"";s:11:"description";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__page-image-bg-settings]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_nav__txt-custom-links]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:9:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";s:6:"active";s:0:"";s:12:"active-alpha";s:0:"";s:11:"active-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_nav__border]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"style";s:12:"meta-inherit";s:5:"width";s:0:"";s:5:"color";s:0:"";s:11:"color-alpha";s:0:"";s:10:"color-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_nav__sticky-txt-custom-links]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:9:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";s:6:"active";s:0:"";s:12:"active-alpha";s:0:"";s:11:"active-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout__container-width]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[page-slim-960px-hpushed]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__page-title-custom]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Next-gen <em>creative</em> agency.]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__page-subtitle]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Duis leo nibh, condimentum eget hendrerit ut, efficitur at ipsum. Cras quis mauris sed ante sodales dictum. Sed quis sem commodo orci ultricies fermentum egestas at arcu.]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_footer__links]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:6:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_footer__color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_footer__bg-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_content__bg-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+            </wp:postmeta>
+		</item>
+        <item>
+            <title>Page - Services - Slim</title>
+            <guid isPermaLink="false">https://demo.loprd.pl/omnis/?page_id=4571</guid>
+            <description></description>
+            <content:encoded><![CDATA[[vc_row row_container_height_custom="80vh" row_background_color="#a0a0a0" row_background_image_effect="parallax parallax-v" row_background_image_parallax_level="5" row_background_image_external="https://source.unsplash.com/hhhYhirkMOA/2000x1300"][vc_column][/vc_column][/vc_row][vc_row row_rows_gap="single"][vc_column width="1/3"][vc_empty_space empty_height="half"][vc_custom_heading heading_text="This is what we do." heading_container="h5" heading_color="rgb(150, 150, 150)"][/vc_column][vc_column width="2/3"][vc_custom_heading heading_text="Curabitur eget egestas mauris." heading_container="h2" heading_typography="size-class:h1-alt"][vc_empty_space][vc_custom_heading heading_text="Phasellus ornare rhoncus consectetur. Vestibulum feugiat rutrum magna, id commodo diam pellentesque at. Quisque posuere, arcu a imperdiet sodales, est erat vulputate leo, sed efficitur velit augue quis enim." heading_typography="size-class:leading-size"][vc_empty_space][vc_icon type="material" icon_material="vc-material vc-material-arrow_drop_down" icon_typography="font-size:30" icon_style="bg" icon_bg_shadow="drop-shadow" icon_text_color="#ffffff" icon_bg_color="#252525"][/vc_column][/vc_row][vc_section section_container_width="limited" section_container_width_custom="1580"][vc_row row_section_padding="padding-top:none|padding-bottom:none|padding-side:none" row_columns_gap="none" row_rows_gap="none" row_content_txt_skin="txt--light" row_background_color="#252525" row_shadow="drop-shadow" css=".vc_custom_1550147476822{border-radius: 5px !important;}"][vc_column column_background_color="#002b3c" width="1/3" column_background_image_external="https://source.unsplash.com/n0mabeJj6_s/1000"][vc_empty_space empty_height="penta"][/vc_column][vc_column column_padding="padding-top:double|padding-bottom:double|padding-side:double" width="2/3"][vc_custom_heading heading_text="Web Development" heading_container="h2" heading_typography="size-class:h1-alt|font-weight:700" heading_color="transparent" heading_color_stroke="#ffffff"][vc_empty_space][vc_column_text]
+    <ul class="simple separated leading-size">
+        <li>Back-End Development</li>
+        <li>Front-End Development</li>
+        <li>E-commerce</li>
+        <li>Websites</li>
+        <li>iOS &amp; Android Apps</li>
+        <li>UI &amp; UX</li>
+    </ul>
+    [/vc_column_text][vc_empty_space][vc_button2 title="Learn more" button_color="btn-light" button_size="btn-lg" link="url:%23|||"][/vc_column][/vc_row][vc_row row_section_padding="padding-top:none|padding-bottom:none"][vc_column][vc_empty_space empty_height="single"][/vc_column][/vc_row][vc_row row_section_padding="padding-top:none|padding-bottom:none|padding-side:none" row_columns_gap="none" row_rows_gap="none" row_content_txt_skin="txt--light" row_background_color="#252525" row_shadow="drop-shadow" css=".vc_custom_1550147472703{border-radius: 5px !important;}"][vc_column column_background_color="#e8e8e8" width="1/3" column_background_image_external="https://source.unsplash.com/Q9Lxkwdvg0g/1000"][vc_empty_space empty_height="penta"][/vc_column][vc_column column_padding="padding-top:double|padding-bottom:double|padding-side:double" width="2/3"][vc_custom_heading heading_text="Art Direction" heading_container="h2" heading_typography="size-class:h1-alt|font-weight:700" heading_color="transparent" heading_color_stroke="#ffffff"][vc_empty_space][vc_column_text]
+    <ul class="simple separated leading-size">
+        <li>Brand Identity</li>
+        <li>Creative Direction</li>
+        <li>Art Direction</li>
+    </ul>
+    [/vc_column_text][vc_empty_space][vc_button2 title="Learn more" button_color="btn-light" button_size="btn-lg" link="url:%23|||"][/vc_column][/vc_row][/vc_section][vc_row row_rows_gap="single"][vc_column width="1/3"][vc_empty_space empty_height="quarter"][vc_custom_heading heading_text="Pellentesque molestie." heading_container="h5" heading_color="rgb(150, 150, 150)"][/vc_column][vc_column width="2/3"][vc_custom_heading heading_text="Nulla pellentesque nulla vitae bibendum elementum. Mauris at velit augue. Morbi nec quam dictum, aliquam nisl at, viverra nibh. Nulla in magna vestibulum, sodales urna nec, pharetra nisl. Lorem ipsum dolor sit amet, consectetur adipiscing elit." heading_typography="size-class:leading-size"][/vc_column][/vc_row][vc_row row_rows_gap="single" row_content_txt_skin="txt--dark" row_background_color="#ffffff"][vc_column width="1/3"][vc_custom_heading heading_text="Our selected projects." heading_container="h5" heading_color="rgb(150, 150, 150)"][/vc_column][vc_column width="2/3"][loprd_loop loop="size:4|order_by:rand|post_type:portfolio" _grid_columns="desktop:6|tablet:12" grid_columns_gap="half" grid_rows_gap="half" post_layout="img" post_layout_ratio="1:1" post_content_layout="meta,title" post_meta="`{`omnis_cats`}`" post_alignment_h="center" post_hover_img_content="hover-content--bottom hover--in hover--el-overflow" post_image_overlay_color="#1a1a1a" post_content_skin_custom_meta="rgba(255,255,255,0.6)" post_drop_shadow="" post_title_typo="font-size:22" post_meta_typo="size-class:body-size" grid_selector_pattern="3n+1" _selector_grid_columns="tablet:12|desktop:12" grid_selector_post_layout_ratio="2:1"][/vc_column][/vc_row][vc_row row_rows_gap="single"][vc_column width="1/3"][vc_empty_space empty_height="quarter"][vc_custom_heading heading_text="Contact us." heading_container="h5"][/vc_column][vc_column width="2/3"][vc_column_text]
+    <h3>Etiam ut enim pulvinar, scelerisque arcu sit amet, maximus dui. Donec nulla quam, eleifend non dui et, porttitor vulputate dolor.</h3>
+    [/vc_column_text][vc_empty_space][vc_button2 title="Contact us →" button_color="btn-light" button_size="btn-lg" link="url:%23|||"][/vc_column][/vc_row]]]></content:encoded>
+            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+            <wp:post_id>4571</wp:post_id>
+            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+            <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+            <wp:post_name><![CDATA[page-services-slim]]></wp:post_name>
+            <wp:status><![CDATA[publish]]></wp:status>
+            <wp:post_parent>2045</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type><![CDATA[page]]></wp:post_type>
+            <wp:post_password><![CDATA[]]></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+                                                            <wp:postmeta>
+            <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+            <wp:meta_value><![CDATA[1]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[default]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[default]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+            <wp:meta_value><![CDATA[true]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[page-slim-960px-hpushed]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__page-image]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:9:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";s:5:"title";s:0:"";s:7:"caption";s:0:"";s:3:"alt";s:0:"";s:11:"description";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__page-image-bg-settings]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_nav__txt-custom-links]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:9:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";s:6:"active";s:0:"";s:12:"active-alpha";s:0:"";s:11:"active-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_nav__border]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"style";s:12:"meta-inherit";s:5:"width";s:0:"";s:5:"color";s:0:"";s:11:"color-alpha";s:0:"";s:10:"color-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_nav__sticky-txt-custom-links]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:9:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";s:6:"active";s:0:"";s:12:"active-alpha";s:0:"";s:11:"active-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout__container-width]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__page-title-custom]]></wp:meta_key>
+            <wp:meta_value><![CDATA[We design <em>internet</em> things.]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__page-subtitle]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Nulla pellentesque nulla vitae bibendum elementum. Mauris at velit augue. Morbi nec quam dictum, aliquam nisl at, viverra nibh. Nulla in magna vestibulum, sodales urna nec, pharetra nisl.]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+            <wp:meta_value><![CDATA[.vc_custom_1550147476822{border-radius: 5px !important;}.vc_custom_1550147472703{border-radius: 5px !important;}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_footer__links]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:6:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_nav__bg-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_nav__sticky-bg-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_footer__color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_footer__bg-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_content__color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
+            </wp:postmeta>
+		</item>
+        <item>
+            <title>Page Template - Slim (1100px) / HPushed</title>
+            <guid isPermaLink="false">https://demo.loprd.pl/omnis/?post_type=omnis_templates&#038;p=3772</guid>
+            <description></description>
+            <content:encoded><![CDATA[]]></content:encoded>
+            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+            <wp:post_id>3772</wp:post_id>
+            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+            <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+            <wp:post_name><![CDATA[page-slim-960px-hpushed]]></wp:post_name>
+            <wp:status><![CDATA[publish]]></wp:status>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type><![CDATA[omnis_templates]]></wp:post_type>
+            <wp:post_password><![CDATA[]]></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+                                                            <wp:postmeta>
+            <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+            <wp:meta_value><![CDATA[1]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[default]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+            <wp:meta_value><![CDATA[true]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[omnis-templates__type]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:7:{s:4:"page";s:1:"1";s:4:"post";s:0:"";s:9:"portfolio";s:0:"";s:7:"product";s:0:"";s:7:"archive";s:0:"";s:12:"archive_shop";s:0:"";s:6:"search";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout__container-width]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:4:"1100";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout__overlay-content-width]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout__bordered-gap]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:2:{s:5:"width";s:0:"";s:5:"units";s:2:"px";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_content__color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#ffffff";s:5:"alpha";s:3:"0.6";s:4:"rgba";s:21:"rgba(255,255,255,0.6)";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_content__bg-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#1a1a1a";s:5:"alpha";s:1:"1";s:4:"rgba";s:16:"rgba(26,26,26,1)";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_content__font-family]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:8:{s:11:"font-family";s:12:"meta-inherit";s:11:"google-font";s:0:"";s:11:"font-weight";s:12:"meta-inherit";s:9:"font-size";s:0:"";s:11:"line-height";s:0:"";s:14:"letter-spacing";s:0:"";s:14:"text-transform";s:12:"meta-inherit";s:10:"font-style";s:12:"meta-inherit";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_content__links]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:6:{s:7:"regular";s:7:"#ffffff";s:13:"regular-alpha";s:1:"1";s:12:"regular-rgba";s:19:"rgba(255,255,255,1)";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_content__headings_color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#ffffff";s:5:"alpha";s:1:"1";s:4:"rgba";s:19:"rgba(255,255,255,1)";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_content__headings]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:6:{s:11:"font-family";s:12:"meta-inherit";s:11:"google-font";s:0:"";s:11:"font-weight";s:12:"meta-inherit";s:14:"letter-spacing";s:0:"";s:14:"text-transform";s:12:"meta-inherit";s:10:"font-style";s:12:"meta-inherit";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__container-padding]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:4:"side";s:12:"meta-inherit";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__txt-custom-links]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:9:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";s:6:"active";s:0:"";s:12:"active-alpha";s:0:"";s:11:"active-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__bg-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#000000";s:5:"alpha";s:1:"0";s:4:"rgba";s:13:"rgba(0,0,0,0)";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__border]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"style";s:12:"meta-inherit";s:5:"width";s:0:"";s:5:"color";s:0:"";s:11:"color-alpha";s:0:"";s:10:"color-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__sticky-txt-custom-links]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:9:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";s:6:"active";s:0:"";s:12:"active-alpha";s:0:"";s:11:"active-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__sticky-bg-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__height]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:6:"height";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__side-width]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_titlebar__height]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:6:"height";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_titlebar__text-heading]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:6:{s:7:"heading";s:0:"";s:13:"heading-alpha";s:0:"";s:12:"heading-rgba";s:0:"";s:4:"text";s:0:"";s:10:"text-alpha";s:0:"";s:9:"text-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_titlebar__bg-image]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:6:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_titlebar__font-family]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:8:{s:11:"font-family";s:12:"meta-inherit";s:11:"google-font";s:0:"";s:11:"font-weight";s:12:"meta-inherit";s:9:"font-size";s:0:"";s:11:"line-height";s:0:"";s:14:"letter-spacing";s:0:"";s:14:"text-transform";s:12:"meta-inherit";s:10:"font-style";s:12:"meta-inherit";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_footer__color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_footer__bg-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_footer__links]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:6:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_titlebar__elements]]></wp:meta_key>
+            <wp:meta_value><![CDATA[titlebar-hpushed]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__txt-skin]]></wp:meta_key>
+            <wp:meta_value><![CDATA[txt--light]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_content__padding]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:3:"top";s:6:"triple";s:6:"bottom";s:6:"triple";s:4:"side";s:12:"meta-inherit";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout__body-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_content__inputs_bg_color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:6:{s:2:"bg";s:7:"#252525";s:8:"bg-alpha";s:1:"1";s:7:"bg-rgba";s:16:"rgba(37,37,37,1)";s:4:"text";s:7:"#ffffff";s:10:"text-alpha";s:1:"1";s:9:"text-rgba";s:19:"rgba(255,255,255,1)";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_content__border_color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#ffffff";s:5:"alpha";s:3:"0.1";s:4:"rgba";s:21:"rgba(255,255,255,0.1)";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__sticky-height]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:6:"height";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_skin__dark]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:9:{s:7:"primary";s:0:"";s:13:"primary-alpha";s:0:"";s:12:"primary-rgba";s:0:"";s:9:"secondary";s:0:"";s:15:"secondary-alpha";s:0:"";s:14:"secondary-rgba";s:0:"";s:6:"border";s:0:"";s:12:"border-alpha";s:0:"";s:11:"border-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_skin__light]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:9:{s:7:"primary";s:0:"";s:13:"primary-alpha";s:0:"";s:12:"primary-rgba";s:0:"";s:9:"secondary";s:0:"";s:15:"secondary-alpha";s:0:"";s:14:"secondary-rgba";s:0:"";s:6:"border";s:0:"";s:12:"border-alpha";s:0:"";s:11:"border-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+		</item>
+        <item>
+            <title>Titlebar - HPushed</title>
+            <guid isPermaLink="false">https://demo.loprd.pl/omnis/?post_type=omnis_elements&#038;p=3774</guid>
+            <description></description>
+            <content:encoded><![CDATA[[vc_row][vc_column width="1/3"][/vc_column][vc_column width="2/3"][vc_custom_heading heading_text="`{`omnis_title`}`" heading_container="h1" heading_typography="size-class:h1-alt|font-weight:700"][vc_custom_heading heading_text="`{`omnis_subtitle`}`" heading_typography="size-class:leading-size" css=".vc_custom_1548857246343{margin-top: 80px !important;}"][vc_empty_space][vc_icon type="material" icon_material="vc-material vc-material-arrow_drop_down" icon_typography="font-size:30" icon_style="bg" icon_bg_shadow="drop-shadow" icon_text_color="#ffffff" icon_bg_color="#252525"][/vc_column][/vc_row]]]></content:encoded>
+            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+            <wp:post_id>3774</wp:post_id>
+            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+            <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+            <wp:post_name><![CDATA[titlebar-hpushed]]></wp:post_name>
+            <wp:status><![CDATA[publish]]></wp:status>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type><![CDATA[omnis_elements]]></wp:post_type>
+            <wp:post_password><![CDATA[]]></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+                                                            <wp:postmeta>
+            <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+            <wp:meta_value><![CDATA[1]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[default]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+            <wp:meta_value><![CDATA[true]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+            <wp:meta_value><![CDATA[.vc_custom_1548857246343{margin-top: 80px !important;}]]></wp:meta_value>
+            </wp:postmeta>
+		</item>
+    </channel>
+</rss>

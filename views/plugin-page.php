@@ -162,10 +162,10 @@ do_action( 'pt-ocdi/plugin_page_header' );
 				<?php endforeach; ?>
 			</div>
 
+			<?php if (array_search('template', array_column($predefined_themes, 'type')) !== false) : ?>
+			<div class="ocdi__gl-type-title"><?php esc_html_e('Home Pages', 'pt-ocdi'); ?></div>
+			<?php endif; ?>
 			<div class="ocdi__gl-item-container  wp-clearfix  js-ocdi-gl-item-container items--home">
-				<?php if (array_search('home', array_column($predefined_themes, 'type')) !== false) : ?>
-				<div class="ocdi__gl-type-title"><?php esc_html_e('Home Pages', 'pt-ocdi'); ?></div>
-				<?php endif; ?>
 				<?php foreach ( $predefined_themes as $index => $import_file ) : ?>
 					<?php if (!empty($import_file['type']) && $import_file['type'] == 'home') : ?>
 						<?php
@@ -174,39 +174,16 @@ do_action( 'pt-ocdi/plugin_page_header' );
 					<?php endif; ?>
 				<?php endforeach; ?>
 			</div>
-
+		
+			<?php if (array_search('template', array_column($predefined_themes, 'type')) !== false) : ?>
+			<div class="ocdi__gl-type-title"><?php esc_html_e('Pages', 'pt-ocdi'); ?></div>
+			<?php endif; ?>
 			<div class="ocdi__gl-item-container  wp-clearfix  js-ocdi-gl-item-container items--page">
-				<?php if (array_search('page', array_column($predefined_themes, 'type')) !== false) : ?>
-				<div class="ocdi__gl-type-title"><?php esc_html_e('Pages', 'pt-ocdi'); ?></div>
-				<?php endif; ?>
 				<?php foreach ( $predefined_themes as $index => $import_file ) : ?>
 					<?php if (!empty($import_file['type']) && $import_file['type'] == 'page') : ?>
 						<?php
-							// Prepare import item display data.
-							$img_src = isset( $import_file['import_preview_image_url'] ) ? $import_file['import_preview_image_url'] : '';
-							// Default to the theme screenshot, if a custom preview image is not defined.
-							if ( empty( $img_src ) ) {
-								$theme = wp_get_theme();
-								$img_src = $theme->get_screenshot();
-							}
-
+							echo omnis_export_item_output($index, $import_file);
 						?>
-						<div class="ocdi__gl-item js-ocdi-gl-item" data-categories="<?php echo esc_attr( Helpers::get_demo_import_item_categories( $import_file ) ); ?>" data-name="<?php echo esc_attr( strtolower( $import_file['import_file_name'] ) ); ?>">
-							<div class="ocdi__gl-item-image-container">
-								<?php if ( ! empty( $img_src ) ) : ?>
-									<img class="ocdi__gl-item-image" src="<?php echo esc_url( $img_src ) ?>">
-								<?php else : ?>
-									<div class="ocdi__gl-item-image  ocdi__gl-item-image--no-image"><?php esc_html_e( 'No preview image.', 'pt-ocdi' ); ?></div>
-								<?php endif; ?>
-							</div>
-							<div class="ocdi__gl-item-footer<?php echo ! empty( $import_file['preview_url'] ) ? '  ocdi__gl-item-footer--with-preview' : ''; ?>">
-								<h4 class="ocdi__gl-item-title" title="<?php echo esc_attr( $import_file['import_file_name'] ); ?>"><?php echo esc_html( $import_file['import_file_name'] ); ?></h4>
-								<button class="ocdi__gl-item-button  button  button-primary  js-ocdi-gl-import-data" value="<?php echo esc_attr( $index ); ?>"><?php esc_html_e( 'Import', 'pt-ocdi' ); ?></button>
-								<?php if ( ! empty( $import_file['preview_url'] ) ) : ?>
-									<a class="ocdi__gl-item-button  button" href="<?php echo esc_url( $import_file['preview_url'] ); ?>" target="_blank"><?php esc_html_e( 'Preview', 'pt-ocdi' ); ?></a>
-								<?php endif; ?>
-							</div>
-						</div>
 					<?php endif; ?>
 				<?php endforeach; ?>
 			</div>

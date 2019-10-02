@@ -21,21 +21,21 @@
 
 @media (min-width: 960px) {
 	.ocdi__gl-item-container {
-		column-count: 4;
-	}
-
-	.ocdi__gl-item-container.items--demo {
-		column-count: 3;
-	}
-}
-
-@media (min-width: 1200px) {
-	.ocdi__gl-item-container {
 		column-count: 5;
 	}
 
 	.ocdi__gl-item-container.items--demo {
 		column-count: 4;
+	}
+}
+
+@media (min-width: 1200px) {
+	.ocdi__gl-item-container {
+		column-count: 6;
+	}
+
+	.ocdi__gl-item-container.items--demo {
+		column-count: 5;
 	}
 }
 
