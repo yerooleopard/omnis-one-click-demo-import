@@ -3,7 +3,7 @@
 /*
 Plugin Name: Omnis Demo Importer
 Description: One click demo importer for Omnis Theme.
-Version: 1.0
+Version: 0.1
 Author: ProteusThemes & Leopard Themes
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl.html

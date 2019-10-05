@@ -22,7 +22,7 @@ do_action( 'pt-ocdi/plugin_page_header' );
 <div class="ocdi  wrap  about-wrap">
 
 	<?php ob_start(); ?>
-		<h1 class="ocdi__title  dashicons-before  dashicons-upload"><?php esc_html_e( 'One Click Demo Import', 'pt-ocdi' ); ?></h1>
+		<h1 class="ocdi__title  dashicons-before  dashicons-upload"><?php esc_html_e( 'Omnis Theme Demo Import', 'pt-ocdi' ); ?></h1>
 	<?php
 	$plugin_title = ob_get_clean();
 
@@ -201,10 +201,10 @@ do_action( 'pt-ocdi/plugin_page_header' );
 				<?php endforeach; ?>
 			</div>
 
+			<?php if (array_search('template', array_column($predefined_themes, 'type')) !== false) : ?>
+			<div class="ocdi__gl-type-title"><?php esc_html_e('Dummy Data', 'pt-ocdi'); ?></div>
+			<?php endif; ?>
 			<div class="ocdi__gl-item-container  wp-clearfix  js-ocdi-gl-item-container items--dummy-data">
-				<?php if (array_search('dummy-data', array_column($predefined_themes, 'type')) !== false) : ?>
-				<div class="ocdi__gl-type-title"><?php esc_html_e('Dummy Data', 'pt-ocdi'); ?></div>
-				<?php endif; ?>
 				<?php foreach ( $predefined_themes as $index => $import_file ) : ?>
 					<?php if (!empty($import_file['type']) && $import_file['type'] == 'dummy-data') : ?>
 						<?php
@@ -213,8 +213,6 @@ do_action( 'pt-ocdi/plugin_page_header' );
 					<?php endif; ?>
 				<?php endforeach; ?>
 			</div>
-
-
 
 		</div>
 

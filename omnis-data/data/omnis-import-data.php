@@ -1376,30 +1376,53 @@ function omnis_ocdi_import_files() {
             'type'                       => 'home',
 		),
 
-
-
-
-
-
-
-
+		// Dummy Data
+		array(
+			'import_file_name'           => esc_html__('Posts', 'pt-ocdi'),
+			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/dummy-data/posts.xml',
+			'attached_elements_settings' => array(),
+            'type'                       => 'dummy-data',
+		),
+		array(
+			'import_file_name'           => esc_html__('Portfolio Projects', 'pt-ocdi'),
+			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/dummy-data/portfolio.xml',
+			'attached_elements_settings' => array(),
+            'type'                       => 'dummy-data',
+		),
+		array(
+			'import_file_name'           => esc_html__('Woo Products', 'pt-ocdi'),
+			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/dummy-data/products.xml',
+			'attached_elements_settings' => array(),
+            'type'                       => 'dummy-data',
+		),
 		// array(
-		// 	'import_file_name'           => 'Post - Large Side Thumbnail (Medium)',
-		// 	'categories'                 => array( 'Templates'),
-		// 	'import_file_url'            => plugin_dir_url( __FILE__ )  . '/omnis-data/data/templates/post_large-thumb-side-medium.xml',
-		// 	// 'import_widget_file_url'     => 'http://www.your_domain.com/ocdi/widgets.json',
-		// 	// 'import_customizer_file_url' => 'http://www.your_domain.com/ocdi/customizer.dat',
-		// 	// 'import_redux'               => array(
-		// 	// 	array(
-		// 	// 		'file_url'    => 'http://www.your_domain.com/ocdi/redux.json',
-		// 	// 		'option_name' => 'redux_option_name',
-		// 	// 	),
-		// 	// ),
-		// 	'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'data/templates/post_large-thumb-side-medium.jpg',
-		// 	'import_notice'              => __( 'After you import this demo, you will have to setup the slider separately.', 'pt-ocdi' ),
-		// 	// 'preview_url'                => 'http://www.your_domain.com/my-demo-1',
-        //     // 'type'                       => 'page',
+		// 	'import_file_name'           => esc_html__('Menus (Theme Demo)', 'pt-ocdi'),
+		// 	'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/dummy-data/menus.xml',
+		// 	'attached_elements_settings' => array(),
+		// 	'import_notice'              => esc_html__( 'After import attach Menus to proper locations. Main Menu to \'Header - Main Navigation\' & Secondary Navigation to \'Header - Secondary Navigation\'.', 'pt-ocdi' ),
+        //     'type'                       => 'dummy-data',
 		// ),
+		array(
+			'import_file_name'           => esc_html__('Theme Demo Settings', 'pt-ocdi'),
+			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/dummy-data/default_settings.xml',
+			'import_redux'               => array(
+				array(
+					'file_url'    => plugin_dir_url( __FILE__ ) . 'templates/dummy-data/default_settings.json',
+					'option_name' => 'omnis_options',
+				),
+			),
+			'attached_elements_settings' => array(
+				wp_kses( __('<span>(Template) Post - Centered Thumbnail, Splited Content</span> for \'Templates -> Post\' Theme Option', 'pt-ocdi'), array('span' => array()) ),
+				wp_kses( __('<span>(Template) Project - Sticky Sidebar</span> for \'Templates -> Portfolio\' Theme Option', 'pt-ocdi'), array('span' => array()) ),
+				wp_kses( __('<span>(Template) Template - No Titlebar</span> for \'Templates -> Product\' Theme Option', 'pt-ocdi'), array('span' => array()) ),
+				wp_kses( __('<span>(Template) Archive/Search - Rounded Section</span> for \'Templates -> Archive\' Theme Option', 'pt-ocdi'), array('span' => array()) ),
+				wp_kses( __('<span>(Template) Archive/Search - Bordered Sidebar (100%)</span> for \'Templates -> Search\' Theme Option', 'pt-ocdi'), array('span' => array()) ),
+				wp_kses( __('<span>(Element) Overlay - Additional Content - Buy</span> for \'Layout -> Top Content Elements\' Theme Option', 'pt-ocdi'), array('span' => array()) ),
+				wp_kses( __('<span>(Media) Logos</span> for \'Logos\' Theme Option', 'pt-ocdi'), array('span' => array()) ),
+			),
+            'preview_url'                => 'https://demo.loprd.pl/omnis/',
+            'type'                       => 'dummy-data',
+		),
 	);
 }
 add_filter( 'pt-ocdi/import_files', 'omnis_ocdi_import_files' );
