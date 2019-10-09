@@ -673,7 +673,7 @@ function omnis_ocdi_import_files() {
 				// wp_kses( __('<span>↑ (Template) Template - Dark</span> for \'Page Template\' Option', 'pt-ocdi'), array('span' => array()) ),
 				// wp_kses( __('<span>⤥ (Element) Titlebar - Pinned - Fade Out - (80vh)</span> for Template \'Title Bar Elements\' Option', 'pt-ocdi'), array('span' => array()) ),
 				// wp_kses( __('<span>⤥ (Media) pills_bg_top_f-dark.png</span> for [vc_row] BG image', 'pt-ocdi'), array('span' => array()) ),
-				// wp_kses( __('<span>↑ (Font) Playfair Display</span> for Font Manager', 'pt-ocdi'), array('span' => array()) ),
+				wp_kses( __('<span>↑ (Font) Playfair Display</span> for Font Manager', 'pt-ocdi'), array('span' => array()) ),
 				wp_kses( __('<span>↑ (Widgets) main-sidebar</span> for Widgets', 'pt-ocdi'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/blog-side-masonry-thumbnails/',
