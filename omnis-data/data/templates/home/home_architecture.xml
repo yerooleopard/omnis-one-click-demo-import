@@ -275,6 +275,35 @@
             </wp:postmeta>
 		</item>
         <item>
+            <title>Header - Archi</title>
+            <guid isPermaLink="false">https://demo.loprd.pl/omnis/?post_type=omnis_elements&#038;p=5893</guid>
+            <description></description>
+            <content:encoded><![CDATA[[vc_section][vc_row row_section_padding="padding-side:none|padding-top:none|padding-bottom:none" row_column_content_alignment_v="top" row_columns_gap="none" row_rows_gap="one" row_content_txt_skin="txt--light" row_background_color="#3c3c3c"][vc_column column_padding="padding-top:triple" column_background_color="#ccdbe6" width="1/3" column_hover_url_button="" column_hover_url="|||" offset="vc_hidden-xs"][/vc_column][vc_column column_padding="padding-top:triple|padding-bottom:triple" column_background_color="#1a1a1a" templates__column_background_source="both-page-image" column_background_image_effect="parallax parallax-v" column_background_image_parallax_level="1" width="2/3" column_hover_url_button="" column_hover_url="|||" column_background_image_external="https://source.unsplash.com/lQhtkVIiWiE/1000x1300"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
+            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+            <wp:post_id>5893</wp:post_id>
+            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+            <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+            <wp:post_name><![CDATA[header-archi]]></wp:post_name>
+            <wp:status><![CDATA[publish]]></wp:status>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type><![CDATA[omnis_elements]]></wp:post_type>
+            <wp:post_password><![CDATA[]]></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+                                                            <wp:postmeta>
+            <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+            <wp:meta_value><![CDATA[1]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[default]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+            <wp:meta_value><![CDATA[true]]></wp:meta_value>
+            </wp:postmeta>
+		</item>
+        <item>
 			<title>woman_1</title>
 			<guid isPermaLink="false">https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/woman_1.jpg</guid>
 			<description></description>

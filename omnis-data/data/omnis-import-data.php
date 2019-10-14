@@ -949,6 +949,7 @@ function omnis_ocdi_import_files() {
 			'attached_elements_settings' => array(
 				wp_kses( __('<span>⤥ (Media) portraits</span> images for [vc_single_image] potrait shortcodes', 'pt-ocdi'), array('span' => array()) ),
 				wp_kses( __('<span>↑ (Template) Home Template - Archi</span> for \'Page Template\' Option', 'pt-ocdi'), array('span' => array()) ),
+				wp_kses( __('<span>⤥ (Element) Header - Archi</span> for \'Template\' Top Content Elements Option', 'pt-ocdi'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-architecture/',
             'type'                       => 'home',
