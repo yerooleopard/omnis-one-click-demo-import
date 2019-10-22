@@ -12,7 +12,7 @@
             <title>Works - Simple Grid</title>
             <guid isPermaLink="false">https://demo.loprd.pl/omnis/?page_id=7440</guid>
             <description></description>
-            <content:encoded><![CDATA[[vc_row row_section_padding="padding-top:triple"][vc_column][vc_custom_heading heading_text="`{`omnis_subtitle`}`" heading_container="h2" heading_type="as-background" heading_type_bg_oneline="true" heading_typography="font-size:500|line-height:1.25em|font-weight:700" heading_color="transparent" heading_color_backup="rgba(0,0,0,0.03)" heading_color_stroke="rgba(0,0,0,0.1)" heading_advanced_h_offset="desktop:pull-double|tablet:pull-double|phone:pull-double" heading_advanced_v_offset="desktop:pull-hexa|tablet:pull-hexa|phone:pull-quad"][vc_custom_heading heading_text="`{`omnis_title`}`" heading_container="h1"][/vc_column][/vc_row][vc_row][vc_column][loprd_loop loop="order_by:date|post_type:portfolio|tax_query:-79" grid_columns_gap="half" grid_rows_gap="half" pagination="paginate" post_layout="img" post_content_layout="title" post_meta="`{`omnis_cats`}`" post_alignment_h="center" post_alignment_v="bottom" post_hover_thumb="hover-thumb--scale-up" post_hover_img_content="hover-content--bottom hover--in hover--el-overflow" post_image_overlay_color="rgba(0, 0, 0, 0.3)" post_border_radius="10" post_title_typo="size-class:h5-size" filters="enabled" filters_alignment="right" animation="scale-up" animation_delay="100" pagination_padding="padding-top:double"][/vc_column][/vc_row]]]></content:encoded>
+            <content:encoded><![CDATA[[vc_row row_section_padding="padding-top:triple"][vc_column][vc_custom_heading heading_text="`{`omnis_subtitle`}`" heading_container="h2" heading_type="as-background" heading_type_bg_oneline="true" heading_typography="font-size:500|line-height:1.25em|font-weight:700" heading_color="#f9f9f9" heading_advanced_h_offset="desktop:pull-double|tablet:pull-double|phone:pull-double" heading_advanced_v_offset="desktop:pull-hexa|tablet:pull-hexa|phone:pull-quad"][vc_custom_heading heading_text="`{`omnis_title`}`" heading_container="h1"][/vc_column][/vc_row][vc_row][vc_column][loprd_loop loop="order_by:date|post_type:portfolio|tax_query:-79" grid_columns_gap="half" grid_rows_gap="half" pagination="paginate" post_layout="img" post_content_layout="title" post_meta="`{`omnis_cats`}`" post_alignment_h="center" post_alignment_v="bottom" post_hover_thumb="hover-thumb--scale-up" post_hover_img_content="hover-content--bottom hover--in hover--el-overflow" post_image_overlay_color="rgba(0, 0, 0, 0.3)" post_border_radius="10" post_title_typo="size-class:h5-size" filters="enabled" filters_alignment="right" animation="scale-up" animation_delay="100" pagination_padding="padding-top:double"][/vc_column][/vc_row]]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
             <wp:post_id>7440</wp:post_id>
             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -87,6 +87,10 @@
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout_content__bg-color]]></wp:meta_key>
             <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_content_transparency-push]]></wp:meta_key>
+            <wp:meta_value><![CDATA[0]]></wp:meta_value>
             </wp:postmeta>
 		</item>
     </channel>

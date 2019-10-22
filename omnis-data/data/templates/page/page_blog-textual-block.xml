@@ -12,7 +12,7 @@
             <title>Blog - Textual Block</title>
             <guid isPermaLink="false">http://demo.loprd.pl/omnis/?page_id=734</guid>
             <description></description>
-            <content:encoded><![CDATA[[vc_row row_columns_gap="double" el_zindex="2"][vc_column width="1/4" offset="vc_hidden-xs"][vc_empty_space empty_height="quarter"][vc_custom_heading heading_text="Our thoughts." heading_container="h5" heading_color="rgba(255, 255, 255, 0.35)"][/vc_column][vc_column width="3/4"][loprd_loop grid_layout="textual" grid_layout_textual_style="block" grid_rows_gap="quarter" grid_alignment_v="baseline" pagination="infinite" pagination_alignment="left" post_layout_ratio="" post_meta="`{`omnis_date`}`" post_title_typo="font-size:40|line-height:1.3em|font-weight:700" animation="from-left" animation_delay="100"][/vc_column][/vc_row]]]></content:encoded>
+            <content:encoded><![CDATA[[vc_row row_columns_gap="double" el_zindex="2"][vc_column width="1/4" offset="vc_hidden-xs"][vc_empty_space empty_height="quarter"][vc_custom_heading heading_text="Our thoughts." heading_container="h5" heading_color="rgba(255, 255, 255, 0.35)"][/vc_column][vc_column width="3/4"][loprd_loop grid_layout="textual" grid_layout_textual_style="block" grid_rows_gap="quarter" grid_alignment_v="baseline" pagination="infinite" pagination_ajax_back_button="" pagination_alignment="left" post_layout_ratio="" post_meta="`{`omnis_date`}`" post_title_typo="font-size:40|line-height:1.3em|font-weight:700" animation="from-left" animation_delay="100"][/vc_column][/vc_row]]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
             <wp:post_id>734</wp:post_id>
             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
