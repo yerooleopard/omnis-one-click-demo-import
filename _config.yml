@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Omnis One Click Demo Importer
+show_downloads: true
+github:
+  zip_url: https://github.com/yerooleopard/omnis-one-click-demo-import/releases/latest/download/omnis-one-click-demo-import.zip
