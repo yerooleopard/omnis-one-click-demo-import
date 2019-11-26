@@ -80,7 +80,7 @@
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_nav__bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#252525";s:5:"alpha";s:1:"1";s:4:"rgba";s:16:"rgba(37,37,37,1)";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#1a1a1a";s:5:"alpha";s:1:"1";s:4:"rgba";s:16:"rgba(37,37,37,1)";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_nav__border]]></wp:meta_key>
