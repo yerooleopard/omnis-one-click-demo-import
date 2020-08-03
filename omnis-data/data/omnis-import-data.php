@@ -882,12 +882,13 @@ function omnis_ocdi_import_files() {
             'type'                       => 'home',
 		),
 		array(
-			'import_file_name'           => esc_html__('Home - Personal Portfolio', 'omnis'),
+			'import_file_name'           => esc_html__('Home - Personal', 'omnis'),
 			'categories'                 => array( 'Page', 'Home'),
 			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/home/home_personal.xml',
 			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_personal.jpg',
 			'import_notice'              => $_page_notice,
 			'attached_elements_settings' => array(
+				wp_kses( __('<span>↑ (Template) Home Template - Personal</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-personal/',
             'type'                       => 'home',

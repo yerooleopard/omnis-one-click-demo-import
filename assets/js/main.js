@@ -42,9 +42,7 @@ jQuery( function ( $ ) {
 	$('.ocdi__importing-info .notice-dismiss.ocdi-dissmiss').on('click', function(){
 		$('.ocdi__importing-info .ocdi__response').empty();
 	});
-
-
-	/**
+		/**
 	 * Grid Layout import button click.
 	 */
 	$( '.js-ocdi-gl-import-data' ).on( 'click', function () {
@@ -188,16 +186,15 @@ jQuery( function ( $ ) {
 		// 	}, 500 )
 		// });
 
-		// Hide the header with category navigation and search box.
+		// // Hide the header with category navigation and search box.
 		// $itemContainer.closest( '.js-ocdi-gl' ).find( '.js-ocdi-gl-header' ).fadeOut( 500 );
 
-		// Append a title for the selected demo import.
+		// // Append a title for the selected demo import.
 		// $itemContainer.parent().prepend( '<h3>' + ocdi.texts.selected_import_title + '</h3>' );
 
-		// Remove the import button of the selected item.
+		// // Remove the import button of the selected item.
 		// $itemContainer.find( '.js-ocdi-gl-import-data' ).remove();
 		$('.ocdi__gl').addClass('importing-in-progress');
-
 		// Prepare data for the AJAX call
 		var data = new FormData();
 		data.append( 'action', 'ocdi_import_demo_data' );
@@ -315,7 +312,6 @@ jQuery( function ( $ ) {
 			else if ( 'undefined' !== typeof response.message ) {
 				$( '.js-ocdi-ajax-response' ).append( '<p>' + response.message + '</p>' );
 				$( '.js-ocdi-ajax-loader' ).hide();
-				$( '.ocdi__gl' ).removeClass('importing-in-progress');
 
 				// Trigger custom event, when OCDI import is complete.
 				$( document ).trigger( 'ocdiImportComplete' );

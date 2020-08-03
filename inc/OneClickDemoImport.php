@@ -133,11 +133,11 @@ class OneClickDemoImport {
 	 */
 	public function create_plugin_page() {
 		$this->plugin_page_setup = apply_filters( 'pt-ocdi/plugin_page_setup', array(
-			'parent_slug' => 'themes.php',
-			'page_title'  => esc_html__( 'One Click Demo Import' , 'pt-ocdi' ),
+			'parent_slug' => 'omnis-theme',
+			'page_title'  => esc_html__( 'Omnis One Click Demo Import' , 'pt-ocdi' ),
 			'menu_title'  => esc_html__( 'Import Demo Data' , 'pt-ocdi' ),
 			'capability'  => 'import',
-			'menu_slug'   => 'pt-one-click-demo-import',
+			'menu_slug'   => 'omnis-one-click-demo-import',
 		) );
 
 		$this->plugin_page = add_submenu_page(
@@ -152,7 +152,6 @@ class OneClickDemoImport {
 		register_importer( $this->plugin_page_setup['menu_slug'], $this->plugin_page_setup['page_title'], $this->plugin_page_setup['menu_title'], apply_filters( 'pt-ocdi/plugin_page_display_callback_function', array( $this, 'display_plugin_page' ) ) );
 	}
 
-    
 	/**
 	 * Plugin page display.
 	 * Output (HTML) is in another file.
@@ -198,7 +197,7 @@ class OneClickDemoImport {
 			);
 
 			wp_enqueue_style( 'ocdi-main-css', PT_OCDI_URL . 'assets/css/main.css', array() , PT_OCDI_VERSION );
-			wp_enqueue_style( 'ocdi-omnis-main-css', PT_OCDI_URL . 'assets/css/omnis-main.css', array('ocdi-main-css') , PT_OCDI_VERSION );
+			wp_enqueue_style( 'ocdi-omnis-main-css', PT_OCDI_URL . 'assets/css/omnis-main.css', array() , PT_OCDI_VERSION );
 		}
 	}
 
@@ -442,6 +441,7 @@ class OneClickDemoImport {
 			$this->log_file_path           = empty( $data['log_file_path'] ) ? '' : $data['log_file_path'];
 			$this->selected_index          = empty( $data['selected_index'] ) ? 0 : $data['selected_index'];
 			$this->selected_import_files   = empty( $data['selected_import_files'] ) ? array() : $data['selected_import_files'];
+			$this->import_files            = empty( $data['import_files'] ) ? array() : $data['import_files'];
 			$this->before_import_executed  = empty( $data['before_import_executed'] ) ? false : $data['before_import_executed'];
 			$this->importer->set_importer_data( $data );
 
@@ -462,6 +462,7 @@ class OneClickDemoImport {
 			'log_file_path'           => $this->log_file_path,
 			'selected_index'          => $this->selected_index,
 			'selected_import_files'   => $this->selected_import_files,
+			'import_files'            => $this->import_files,
 			'before_import_executed'  => $this->before_import_executed,
 		);
 	}
@@ -529,6 +530,10 @@ class OneClickDemoImport {
 	 * Get data from filters, after the theme has loaded and instantiate the importer.
 	 */
 	public function setup_plugin_with_filter_data() {
+		if ( ! ( is_admin() || ( defined( 'WP_CLI' ) && WP_CLI ) ) ) {
+			return;
+		}
+
 		// Get info of import data files and filter it.
 		$this->import_files = Helpers::validate_import_file_info( apply_filters( 'pt-ocdi/import_files', array() ) );
 
