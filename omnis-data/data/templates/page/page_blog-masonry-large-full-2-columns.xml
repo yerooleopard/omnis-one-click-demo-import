@@ -54,7 +54,7 @@
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout_nav__bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#ffffff";s:5:"alpha";s:1:"0";s:4:"rgba";s:19:"rgba(255,255,255,0)";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout_nav__border]]></wp:meta_key>
@@ -98,7 +98,7 @@
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout_nav__bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#ffffff";s:5:"alpha";s:1:"0";s:4:"rgba";s:19:"rgba(255,255,255,0)";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout_nav__border]]></wp:meta_key>
@@ -141,16 +141,12 @@
             <wp:meta_value><![CDATA[0]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
-            <wp:meta_key><![CDATA[post_omnis__layout_nav__txt-skin]]></wp:meta_key>
-            <wp:meta_value><![CDATA[txt--light]]></wp:meta_value>
-            </wp:postmeta>
-                                <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout_nav__txt-custom-links]]></wp:meta_key>
             <wp:meta_value><![CDATA[a:9:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";s:6:"active";s:0:"";s:12:"active-alpha";s:0:"";s:11:"active-rgba";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout_nav__bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#ffffff";s:5:"alpha";s:1:"0";s:4:"rgba";s:19:"rgba(255,255,255,0)";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout_nav__border]]></wp:meta_key>
@@ -255,7 +251,7 @@
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_nav__bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#000000";s:5:"alpha";s:1:"0";s:4:"rgba";s:13:"rgba(0,0,0,0)";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[transparent]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_nav__border]]></wp:meta_key>
@@ -267,7 +263,7 @@
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_nav__sticky-bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_titlebar__height]]></wp:meta_key>
