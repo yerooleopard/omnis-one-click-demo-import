@@ -9,10 +9,10 @@
 
     <channel>
         <item>
-            <title>Home - Restaurant</title>
+            <title><![CDATA[Home - Restaurant]]></title>
             <guid isPermaLink="false">https://demo.loprd.pl/omnis/?page_id=5778</guid>
             <description></description>
-            <content:encoded><![CDATA[[vc_row row_section_padding="padding-top:none|padding-bottom:none|padding-side:none" row_section_container_width="stretched" row_background_color="#1a1a1a"][vc_column][rev_slider_vc alias="home-restaurant-slideshow"][/vc_column][/vc_row][vc_section section_padding="padding-side:none" section_container_width="limited"][vc_row][vc_column][loprd_carousel carousel_columns_gap="hexa" carousel_style="full" carousel_pagination_padding="padding:triple" carousel_autoplay="15000" animation="from-bottom" animation_delay="300"][loprd_carousel_column][vc_row_inner row_column_alignment_h="center"][vc_column_inner][vc_custom_heading heading_text="Restaurant" heading_container="h2" heading_typography="size-class:h1-alt|font-weight:700" heading_color="transparent" heading_color_stroke="#1a1a1a"][/vc_column_inner][/vc_row_inner][vc_empty_space empty_height="triple"][vc_row_inner row_section_padding="padding-top:none|padding-bottom:none|padding-side:none" row_columns_gap="none" row_rows_gap="none" row_background_color="#ffffff"][vc_column_inner width="1/3"][vc_single_image image_width="1000" image_ratio="3:4" el_advanced_h_offset="desktop:pull-double" el_advanced_v_offset="desktop:push-double|tablet:push-double" image_external="https://source.unsplash.com/mFRhtEe5sNM/1000x1400"][/vc_column_inner][vc_column_inner column_padding="padding-top:double|padding-bottom:double|padding-side:double" width="2/3"][vc_custom_heading heading_text="Award winning" heading_container="p" heading_typography="font-weight:500|size-class:h4-size"][vc_custom_heading heading_text="Donec tincidunt, sem eget commodo pellentesque, risus nisl pharetra dui, dictum iaculis mi metus eu elit." heading_container="h2"][vc_empty_space][vc_button2 title="Read more" button_size="btn-lg" link="url:%23|||"][/vc_column_inner][/vc_row_inner][/loprd_carousel_column][loprd_carousel_column][vc_row_inner row_column_alignment_h="center"][vc_column_inner][vc_custom_heading heading_text="Chef" heading_container="h2" heading_typography="size-class:h1-alt|font-weight:700" heading_color="transparent" heading_color_stroke="#1a1a1a"][/vc_column_inner][/vc_row_inner][vc_empty_space empty_height="triple"][vc_row_inner row_section_padding="padding-top:none|padding-bottom:none|padding-side:none" row_columns_gap="none" row_rows_gap="none" row_background_color="#ffffff"][vc_column_inner width="1/3"][vc_single_image image_width="1000" image_ratio="3:4" el_advanced_h_offset="desktop:pull-double" el_advanced_v_offset="desktop:push-double|tablet:push-double" image_external="https://source.unsplash.com/iv6yNy7oBqQ/1000x1400"][/vc_column_inner][vc_column_inner column_padding="padding-top:double|padding-bottom:double|padding-side:double" width="2/3"][vc_custom_heading heading_text="John Goodman" heading_container="p" heading_typography="font-weight:500|size-class:h4-size"][vc_custom_heading heading_text="Sed id interdum augue. Integer elit risus, pellentesque eget molestie in, condimentum sit amet ligula. Praesent congue ligula vel purus tincidunt cursus." heading_container="h2"][vc_empty_space][vc_button2 title="Read more" button_size="btn-lg" link="url:%23|||"][/vc_column_inner][/vc_row_inner][/loprd_carousel_column][loprd_carousel_column][vc_row_inner row_column_alignment_h="center"][vc_column_inner][vc_custom_heading heading_text="Gallery" heading_container="h2" heading_typography="size-class:h1-alt|font-weight:700" heading_color="transparent" heading_color_stroke="#1a1a1a"][/vc_column_inner][/vc_row_inner][vc_empty_space empty_height="triple"][vc_row_inner row_section_padding="padding-top:none|padding-bottom:none|padding-side:none" row_columns_gap="none" row_rows_gap="none" row_background_color="#ffffff"][vc_column_inner width="1/3"][vc_single_image image_width="1000" image_ratio="3:4" el_advanced_h_offset="desktop:pull-double" el_advanced_v_offset="desktop:push-double|tablet:push-double" image_external="https://source.unsplash.com/VobvKmG-StA/1000x1400"][/vc_column_inner][vc_column_inner column_padding="padding-top:double|padding-bottom:double|padding-side:double" width="2/3"][vc_custom_heading heading_text="Distinguished atmosphere" heading_container="p" heading_typography="font-weight:500|size-class:h4-size"][vc_custom_heading heading_text="Pellentesque a rutrum erat. Aenean massa sem, scelerisque sed viverra vel, placerat vel urna. Nunc ac consequat ligula." heading_container="h2"][vc_empty_space][vc_button2 title="View gallery" button_size="btn-lg" link="url:%23|||"][/vc_column_inner][/vc_row_inner][/loprd_carousel_column][/loprd_carousel][/vc_column][/vc_row][/vc_section][vc_row row_container_height_custom="50vh" row_background_color="#1a1a1a" row_background_image_effect="parallax parallax-v" row_background_image_external="https://source.unsplash.com/1Rm9GLHV0UA/2000x1300"][vc_column][/vc_column][/vc_row][vc_section section_padding="padding-side:none|padding-bottom:triple" section_container_width="limited"][vc_row row_column_alignment_h="center"][vc_column][vc_custom_heading heading_text="Menu" heading_container="h2" heading_typography="size-class:h1-alt|font-weight:700" heading_color="transparent" heading_color_stroke="#1a1a1a"][/vc_column][/vc_row][vc_row row_section_padding="padding-top:none|padding-side:none|padding-bottom:none" row_column_content_alignment_v="top" row_columns_gap="none" row_rows_gap="none" row_background_color="#ffffff"][vc_column column_padding="padding-side:double|padding-top:double|padding-bottom:double" width="2/3"][loprd_carousel carousel_columns_gap="double" carousel_style="contained overflow-hidden" carousel_column_titles="enabled" carousel_column_titles_alignment_h="left" carousel_titles_padding="padding-bottom:double" carousel_pagination_alignment="left" carousel_pagination_padding="padding:triple" carousel_titles_typo="size-class:h5-size|font-family:Poppins|font-weight:500" animation="fade-in" animation_delay="100" carouseln_titles_custom_color="#dd3333" animation_columns=""][loprd_carousel_column carousel_column_title="Starters"][vc_row_inner row_column_alignment_v="" row_columns_gap="double" row_rows_gap="single" row_flex_wrap="nowrap"][vc_column_inner][vc_column_text]
+            <content:encoded><![CDATA[[vc_row row_section_container_width="stretched padding-none" row_background_color="#1a1a1a"][vc_column][rev_slider_vc alias="home-restaurant-slideshow"][/vc_column][/vc_row][vc_section section_padding="padding-side:none" section_container_width="limited"][vc_row el_id="description"][vc_column][loprd_carousel carousel_columns_gap="hexa" carousel_style="full" carousel_pagination_padding="padding:double" carousel_autoplay="15000" animation="from-bottom" animation_delay="300"][loprd_carousel_column][vc_row_inner row_column_alignment_h="center"][vc_column_inner][vc_custom_heading heading_text="Restaurant" heading_container="h2" heading_typography="size-class:h1-alt|font-weight:700" heading_color="transparent" heading_color_stroke="#1a1a1a"][/vc_column_inner][/vc_row_inner][vc_empty_space empty_height="_section-top"][vc_row_inner row_section_padding="padding-top:none|padding-bottom:none|padding-side:none" row_columns_gap="none" row_rows_gap="none" row_background_color="#ffffff"][vc_column_inner width="1/3"][vc_single_image image_width="1000" image_ratio="3:4" el_advanced_h_offset="desktop:pull-double" el_advanced_v_offset="desktop:push-double|tablet:push-double" image_external="https://source.unsplash.com/mFRhtEe5sNM/1000x1400"][/vc_column_inner][vc_column_inner column_padding="padding-top:double|padding-bottom:double|padding-side:double" width="2/3"][vc_custom_heading heading_text="Award winning" heading_container="p" heading_typography="font-weight:500|size-class:h4-size"][vc_custom_heading heading_text="Donec tincidunt, sem eget commodo pellentesque, risus nisl pharetra dui, dictum iaculis mi metus eu elit." heading_container="h2"][vc_empty_space][vc_button2 title="Read more" button_size="btn-lg" link="url:%23|||"][/vc_column_inner][/vc_row_inner][/loprd_carousel_column][loprd_carousel_column][vc_row_inner row_column_alignment_h="center"][vc_column_inner][vc_custom_heading heading_text="Chef" heading_container="h2" heading_typography="size-class:h1-alt|font-weight:700" heading_color="transparent" heading_color_stroke="#1a1a1a"][/vc_column_inner][/vc_row_inner][vc_empty_space empty_height="_section-top"][vc_row_inner row_section_padding="padding-top:none|padding-bottom:none|padding-side:none" row_columns_gap="none" row_rows_gap="none" row_background_color="#ffffff"][vc_column_inner width="1/3"][vc_single_image image_width="1000" image_ratio="3:4" el_advanced_h_offset="desktop:pull-double" el_advanced_v_offset="desktop:push-double|tablet:push-double" image_external="https://source.unsplash.com/iv6yNy7oBqQ/1000x1400"][/vc_column_inner][vc_column_inner column_padding="padding-top:double|padding-bottom:double|padding-side:double" width="2/3"][vc_custom_heading heading_text="John Goodman" heading_container="p" heading_typography="font-weight:500|size-class:h4-size"][vc_custom_heading heading_text="Sed id interdum augue. Integer elit risus, pellentesque eget molestie in, condimentum sit amet ligula. Praesent congue ligula vel purus tincidunt cursus." heading_container="h2"][vc_empty_space][vc_button2 title="Read more" button_size="btn-lg" link="url:%23|||"][/vc_column_inner][/vc_row_inner][/loprd_carousel_column][loprd_carousel_column][vc_row_inner row_column_alignment_h="center"][vc_column_inner][vc_custom_heading heading_text="Gallery" heading_container="h2" heading_typography="size-class:h1-alt|font-weight:700" heading_color="transparent" heading_color_stroke="#1a1a1a"][/vc_column_inner][/vc_row_inner][vc_empty_space empty_height="_section-top"][vc_row_inner row_section_padding="padding-top:none|padding-bottom:none|padding-side:none" row_columns_gap="none" row_rows_gap="none" row_background_color="#ffffff"][vc_column_inner width="1/3"][vc_single_image image_width="1000" image_ratio="3:4" el_advanced_h_offset="desktop:pull-double" el_advanced_v_offset="desktop:push-double|tablet:push-double" image_external="https://source.unsplash.com/VobvKmG-StA/1000x1400"][/vc_column_inner][vc_column_inner column_padding="padding-top:double|padding-bottom:double|padding-side:double" width="2/3"][vc_custom_heading heading_text="Distinguished atmosphere" heading_container="p" heading_typography="font-weight:500|size-class:h4-size"][vc_custom_heading heading_text="Pellentesque a rutrum erat. Aenean massa sem, scelerisque sed viverra vel, placerat vel urna. Nunc ac consequat ligula." heading_container="h2"][vc_empty_space][vc_button2 title="View gallery" button_size="btn-lg" link="url:%23|||"][/vc_column_inner][/vc_row_inner][/loprd_carousel_column][/loprd_carousel][/vc_column][/vc_row][/vc_section][vc_row row_container_height_custom="50vh" row_background_color="#1a1a1a" row_background_image_effect="parallax parallax-v" row_background_image_external="https://source.unsplash.com/1Rm9GLHV0UA/2000x1300"][vc_column][/vc_column][/vc_row][vc_section section_padding="padding-side:none|padding-bottom:triple" section_container_width="limited"][vc_row row_column_alignment_h="center"][vc_column][vc_custom_heading heading_text="Menu" heading_container="h2" heading_typography="size-class:h1-alt|font-weight:700" heading_color="transparent" heading_color_stroke="#1a1a1a"][/vc_column][/vc_row][vc_row row_section_padding="padding-top:none|padding-side:none|padding-bottom:none" row_column_content_alignment_v="top" row_columns_gap="none" row_rows_gap="none" row_background_color="#ffffff" el_id="menu"][vc_column column_padding="padding-side:double|padding-top:double|padding-bottom:double" width="2/3"][loprd_carousel carousel_columns_gap="double" carousel_style="contained overflow-hidden" carousel_column_titles="enabled" carousel_column_titles_alignment_h="left" carousel_titles_padding="padding-bottom:double" carousel_pagination_alignment="left" carousel_pagination_padding="padding:triple" carousel_titles_typo="size-class:h5-size|font-family:Poppins|font-weight:500" animation="fade-in" animation_delay="100" carouseln_titles_custom_color="#dd3333" animation_columns=""][loprd_carousel_column carousel_column_title="Starters"][vc_row_inner row_column_alignment_v="" row_columns_gap="double" row_rows_gap="single" row_flex_wrap="nowrap"][vc_column_inner][vc_column_text]
     <h4>Primavera Salad</h4>
     <div>Arugula, cherry tomato, shaved almonds, shallot vinaigrette</div>
     [/vc_column_text][/vc_column_inner][vc_column_inner width="auto"][vc_custom_heading heading_text="8" heading_container="h4" heading_type_bg_oneline="true" heading_typography="font-weight:300" heading_color="#7b7b7b"][/vc_column_inner][/vc_row_inner][vc_text_separator][vc_row_inner row_column_alignment_v="" row_columns_gap="double" row_rows_gap="single" row_flex_wrap="nowrap"][vc_column_inner][vc_column_text]
@@ -77,7 +77,7 @@
     [/vc_column_text][/vc_column_inner][vc_column_inner width="auto"][vc_custom_heading heading_text="12" heading_container="h4" heading_type_bg_oneline="true" heading_typography="font-weight:300" heading_color="#7b7b7b"][/vc_column_inner][/vc_row_inner][/loprd_carousel_column][/loprd_carousel][/vc_column][vc_column width="1/3"][vc_row_inner][vc_column_inner column_advanced_h_offset="desktop:push-double" column_advanced_v_offset="desktop:push-double|tablet:push-double"][vc_single_image image_width="1000" image_ratio="3:4" image_external="https://source.unsplash.com/ImA5Vr2XS58/1000x1400"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][/vc_section][vc_row row_container_height_custom="50vh" row_background_color="#1a1a1a" row_background_image_effect="parallax parallax-v" row_background_image_external="https://source.unsplash.com/ynEieC-gZMA/2000x1300"][vc_column][/vc_column][/vc_row][vc_section section_padding="padding-bottom:triple|padding-side:none" section_container_width="limited"][vc_row row_column_alignment_h="center"][vc_column][vc_custom_heading heading_text="Contact" heading_container="h2" heading_typography="size-class:h1-alt|font-weight:700" heading_color="transparent" heading_color_stroke="#1a1a1a"][/vc_column][/vc_row][vc_row row_section_padding="padding-top:none|padding-bottom:none|padding-side:none" row_column_content_alignment_v="top" row_columns_gap="none" row_rows_gap="none" row_background_color="#ffffff"][vc_column width="1/3"][vc_row_inner][vc_column_inner column_advanced_h_offset="desktop:pull-double" column_advanced_v_offset="desktop:push-double|tablet:push-double"][loprd_maps address="510 3rd Street, Brooklyn, NY" zoom="16" map_type="TERRAIN" height="480"][/vc_column_inner][/vc_row_inner][/vc_column][vc_column column_padding="padding-side:double|padding-top:double|padding-bottom:double" width="2/3"][vc_column_text]
     <h3>Phone: (04) 2344 454
     Email: <a href="mailto:contact@ristorantedelleo.com">contact@ristorantedelleo.com</a></h3>
-    [/vc_column_text][vc_button2 title="Reserve" button_type="btn-outlined" button_size="btn-lg" button_width="btn-block" link="url:%23|||"][vc_empty_space][vc_custom_heading heading_text="510 3rd Street, Brooklyn
+    [/vc_column_text][vc_button2 title="Reservations" button_size="btn-lg" button_width="btn-block" link="url:%23|||"][vc_empty_space][vc_custom_heading heading_text="510 3rd Street, Brooklyn
     New York City, NY" heading_container="h4"][vc_text_separator][vc_empty_space][vc_custom_heading heading_text="Opening hours" heading_container="p" heading_typography="font-weight:500|size-class:h4-size"][vc_custom_heading heading_text="Tue — Sat, 12-3pm | 6-10pm
     Sun, 12-10pm
     Mon, closed" heading_container="h4" heading_typography="font-weight:500|size-class:h4-size"][/vc_column][/vc_row][/vc_section][vc_row row_container_height_custom="50vh" row_background_color="#1a1a1a" row_background_image_effect="parallax parallax-v" row_background_image_external="https://source.unsplash.com/gxWsRTgC_Vg/2000x1300"][vc_column][/vc_column][/vc_row]]]></content:encoded>
@@ -110,11 +110,11 @@
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__page-image]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:9:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";s:5:"title";s:0:"";s:7:"caption";s:0:"";s:3:"alt";s:0:"";s:11:"description";s:0:"";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__page-image-bg-settings]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:6:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout_nav__txt-custom-links]]></wp:meta_key>
@@ -134,43 +134,55 @@
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__template]]></wp:meta_key>
-            <wp:meta_value><![CDATA[home-template-restaurant-1100px-alt-typo]]></wp:meta_value>
-            </wp:postmeta>
-                                <wp:postmeta>
-            <wp:meta_key><![CDATA[post_omnis__layout_content__bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
-            </wp:postmeta>
-                                <wp:postmeta>
-            <wp:meta_key><![CDATA[post_omnis__layout_nav__bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[]]></wp:meta_value>
-            </wp:postmeta>
-                                <wp:postmeta>
-            <wp:meta_key><![CDATA[post_omnis__layout_nav__sticky-bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[]]></wp:meta_value>
-            </wp:postmeta>
-                                <wp:postmeta>
-            <wp:meta_key><![CDATA[post_omnis__layout_footer__color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
-            </wp:postmeta>
-                                <wp:postmeta>
-            <wp:meta_key><![CDATA[post_omnis__layout_footer__bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[template-restaurant-dark-triple-padding-playfair-display]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout_footer__links]]></wp:meta_key>
             <wp:meta_value><![CDATA[a:6:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
+            <wp:meta_key><![CDATA[rs_page_bg_color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_content__bg-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_nav__sticky-border]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"style";s:12:"meta-inherit";s:5:"width";s:0:"";s:5:"color";s:0:"";s:11:"color-alpha";s:0:"";s:10:"color-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_nav__container-width-value]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_nav__container-padding]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:4:"side";s:12:"meta-inherit";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_footer__container-width-value]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_footer__color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_footer__bg-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout_content__color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout__body-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
 		</item>
         <item>
-            <title>Home Template - Restaurant (1100px, Triple Padding, Playfair Display)</title>
+            <title><![CDATA[Home Template - Restaurant (1100px, Triple Padding, Playfair Display)]]></title>
             <guid isPermaLink="false">https://demo.loprd.pl/omnis/?post_type=omnis_templates&#038;p=5783</guid>
             <description></description>
             <content:encoded><![CDATA[]]></content:encoded>
@@ -178,7 +190,7 @@
             <wp:post_id>5783</wp:post_id>
             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
             <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-            <wp:post_name><![CDATA[home-template-restaurant-1100px-alt-typo]]></wp:post_name>
+            <wp:post_name><![CDATA[template-restaurant-dark-triple-padding-playfair-display]]></wp:post_name>
             <wp:status><![CDATA[publish]]></wp:status>
             <wp:post_parent>0</wp:post_parent>
             <wp:menu_order>0</wp:menu_order>
@@ -199,7 +211,7 @@
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[omnis-templates__type]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:6:{s:4:"page";s:1:"1";s:4:"post";s:0:"";s:9:"portfolio";s:0:"";s:7:"product";s:0:"";s:7:"archive";s:0:"";s:6:"search";s:0:"";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:8:{s:4:"page";s:1:"1";s:4:"post";s:0:"";s:9:"portfolio";s:0:"";s:17:"archive_portfolio";s:0:"";s:7:"product";s:0:"";s:12:"archive_shop";s:0:"";s:7:"archive";s:0:"";s:6:"search";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout__container-width]]></wp:meta_key>
@@ -242,10 +254,6 @@
             <wp:meta_value><![CDATA[0]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
-            <wp:meta_key><![CDATA[meta_omnis__layout_content__padding]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:3:{s:3:"top";s:6:"triple";s:6:"bottom";s:6:"triple";s:4:"side";s:12:"meta-inherit";}]]></wp:meta_value>
-            </wp:postmeta>
-                                <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_nav__container-padding]]></wp:meta_key>
             <wp:meta_value><![CDATA[a:1:{s:4:"side";s:12:"meta-inherit";}]]></wp:meta_value>
             </wp:postmeta>
@@ -258,20 +266,12 @@
             <wp:meta_value><![CDATA[a:9:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";s:6:"active";s:0:"";s:12:"active-alpha";s:0:"";s:11:"active-rgba";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
-            <wp:meta_key><![CDATA[meta_omnis__layout_nav__bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[transparent]]></wp:meta_value>
-            </wp:postmeta>
-                                <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_nav__border]]></wp:meta_key>
             <wp:meta_value><![CDATA[a:5:{s:5:"style";s:12:"meta-inherit";s:5:"width";s:0:"";s:5:"color";s:0:"";s:11:"color-alpha";s:0:"";s:10:"color-rgba";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_nav__sticky-txt-custom-links]]></wp:meta_key>
             <wp:meta_value><![CDATA[a:9:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";s:6:"active";s:0:"";s:12:"active-alpha";s:0:"";s:11:"active-rgba";s:0:"";}]]></wp:meta_value>
-            </wp:postmeta>
-                                <wp:postmeta>
-            <wp:meta_key><![CDATA[meta_omnis__layout_nav__sticky-bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_nav__height]]></wp:meta_key>
@@ -312,6 +312,58 @@
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_footer__links]]></wp:meta_key>
             <wp:meta_value><![CDATA[a:6:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[default]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout__body-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_content__inputs_bg_color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:6:{s:2:"bg";s:0:"";s:8:"bg-alpha";s:0:"";s:7:"bg-rgba";s:0:"";s:4:"text";s:0:"";s:10:"text-alpha";s:0:"";s:9:"text-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_content__border_color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__bg-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[transparent]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__sticky-height]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:6:"height";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_skin__dark]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:15:{s:7:"primary";s:0:"";s:13:"primary-alpha";s:0:"";s:12:"primary-rgba";s:0:"";s:9:"secondary";s:0:"";s:15:"secondary-alpha";s:0:"";s:14:"secondary-rgba";s:0:"";s:6:"border";s:0:"";s:12:"border-alpha";s:0:"";s:11:"border-rgba";s:0:"";s:14:"primary-anchor";s:0:"";s:20:"primary-anchor-alpha";s:0:"";s:19:"primary-anchor-rgba";s:0:"";s:20:"primary-anchor-hover";s:0:"";s:26:"primary-anchor-hover-alpha";s:0:"";s:25:"primary-anchor-hover-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_skin__light]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:15:{s:7:"primary";s:0:"";s:13:"primary-alpha";s:0:"";s:12:"primary-rgba";s:0:"";s:9:"secondary";s:0:"";s:15:"secondary-alpha";s:0:"";s:14:"secondary-rgba";s:0:"";s:6:"border";s:0:"";s:12:"border-alpha";s:0:"";s:11:"border-rgba";s:0:"";s:14:"primary-anchor";s:0:"";s:20:"primary-anchor-alpha";s:0:"";s:19:"primary-anchor-rgba";s:0:"";s:20:"primary-anchor-hover";s:0:"";s:26:"primary-anchor-hover-alpha";s:0:"";s:25:"primary-anchor-hover-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[rs_page_bg_color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__container-width-value]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__sticky-border]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"style";s:12:"meta-inherit";s:5:"width";s:0:"";s:5:"color";s:0:"";s:11:"color-alpha";s:0:"";s:10:"color-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_titlebar__container-width-value]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_footer__container-width-value]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
 		</item>
         <item>

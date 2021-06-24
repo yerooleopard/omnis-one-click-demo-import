@@ -8,12 +8,12 @@
 >
 
     <channel>
-        <item>
-			<title>woman_1</title>
+		<item>
+			<title><![CDATA[Hailey Fields]]></title>
 			<guid isPermaLink="false">https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/woman_1.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
-			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<excerpt:encoded><![CDATA[CTO]]></excerpt:encoded>
 			<wp:post_id>3528</wp:post_id>
 			<wp:comment_status><![CDATA[open]]></wp:comment_status>
 			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
@@ -24,18 +24,22 @@
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/woman_1.jpg]]></wp:attachment_url>
+							<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/woman_1.jpg]]></wp:attachment_url>
 												<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2019/01/woman_1.jpg]]></wp:meta_value>
 			</wp:postmeta>
-							<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:2000;s:4:"file";s:19:"2019/01/woman_1.jpg";s:5:"sizes";a:16:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"woman_1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"woman_1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"woman_1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"woman_1-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:8:"dominant";a:4:{s:4:"file";s:17:"woman_1-10x10.jpg";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:19:"woman_1-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:21:"woman_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:19:"woman_1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:19:"woman_1-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:21:"woman_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:19:"woman_1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"resized-1000x0";a:4:{s:4:"file";s:21:"woman_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x2000";a:4:{s:4:"file";s:21:"woman_1-2000x2000.jpg";s:5:"width";i:2000;s:6:"height";i:2000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-1000x1000";a:4:{s:4:"file";s:21:"woman_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-100x100";a:4:{s:4:"file";s:19:"woman_1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-200x200";a:4:{s:4:"file";s:19:"woman_1-200x200.jpg";s:5:"width";i:200;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 			</wp:postmeta>
-							<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[__dominant_color]]></wp:meta_key>
 			<wp:meta_value><![CDATA[rgb(245,245,245)]]></wp:meta_value>
+			</wp:postmeta>
+								<wp:postmeta>
+			<wp:meta_key><![CDATA[__omnis-external-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#hailey]]></wp:meta_value>
 			</wp:postmeta>
 		</item>
         <item>
@@ -69,11 +73,11 @@
 			</wp:postmeta>
 	    </item>
         <item>
-			<title>woman_3</title>
+			<title><![CDATA[Monica Carpigiani]]></title>
 			<guid isPermaLink="false">https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/woman_3.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
-			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<excerpt:encoded><![CDATA[Senior Designer]]></excerpt:encoded>
 			<wp:post_id>3511</wp:post_id>
 			<wp:comment_status><![CDATA[open]]></wp:comment_status>
 			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
@@ -84,26 +88,30 @@
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-									<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/woman_3.jpg]]></wp:attachment_url>
-																<wp:postmeta>
+							<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/woman_3.jpg]]></wp:attachment_url>
+												<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2019/01/woman_3.jpg]]></wp:meta_value>
 			</wp:postmeta>
-										<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:2000;s:4:"file";s:19:"2019/01/woman_3.jpg";s:5:"sizes";a:13:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"woman_3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"woman_3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"woman_3-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"woman_3-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:8:"dominant";a:4:{s:4:"file";s:17:"woman_3-10x10.jpg";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:19:"woman_3-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:21:"woman_3-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:19:"woman_3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:19:"woman_3-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:21:"woman_3-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:19:"woman_3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"resized-1000x0";a:4:{s:4:"file";s:21:"woman_3-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x2000";a:4:{s:4:"file";s:21:"woman_3-2000x2000.jpg";s:5:"width";i:2000;s:6:"height";i:2000;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 			</wp:postmeta>
-										<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[__dominant_color]]></wp:meta_key>
 			<wp:meta_value><![CDATA[rgb(245,245,245)]]></wp:meta_value>
 			</wp:postmeta>
+								<wp:postmeta>
+			<wp:meta_key><![CDATA[__omnis-external-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#monica]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>woman_4</title>
+			<title><![CDATA[Terrie Strickland]]></title>
 			<guid isPermaLink="false">https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/woman_4.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
-			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<excerpt:encoded><![CDATA[Design Lead]]></excerpt:encoded>
 			<wp:post_id>3512</wp:post_id>
 			<wp:comment_status><![CDATA[open]]></wp:comment_status>
 			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
@@ -114,26 +122,30 @@
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-									<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/woman_4.jpg]]></wp:attachment_url>
-																<wp:postmeta>
+							<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/woman_4.jpg]]></wp:attachment_url>
+												<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2019/01/woman_4.jpg]]></wp:meta_value>
 			</wp:postmeta>
-										<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:2000;s:4:"file";s:19:"2019/01/woman_4.jpg";s:5:"sizes";a:19:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"woman_4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"woman_4-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"woman_4-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"woman_4-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:8:"dominant";a:4:{s:4:"file";s:17:"woman_4-10x10.jpg";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:19:"woman_4-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:21:"woman_4-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:19:"woman_4-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:19:"woman_4-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:21:"woman_4-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:19:"woman_4-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"resized-1000x0";a:4:{s:4:"file";s:21:"woman_4-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x2000";a:4:{s:4:"file";s:21:"woman_4-2000x2000.jpg";s:5:"width";i:2000;s:6:"height";i:2000;s:9:"mime-type";s:10:"image/jpeg";}s:16:"resized-1000x500";a:4:{s:4:"file";s:20:"woman_4-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x1000";a:4:{s:4:"file";s:21:"woman_4-2000x1000.jpg";s:5:"width";i:2000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:16:"resized-1000x750";a:4:{s:4:"file";s:20:"woman_4-1000x750.jpg";s:5:"width";i:1000;s:6:"height";i:750;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x1500";a:4:{s:4:"file";s:21:"woman_4-2000x1500.jpg";s:5:"width";i:2000;s:6:"height";i:1500;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-150x150";a:4:{s:4:"file";s:19:"woman_4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-300x300";a:4:{s:4:"file";s:19:"woman_4-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 			</wp:postmeta>
-										<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[__dominant_color]]></wp:meta_key>
 			<wp:meta_value><![CDATA[rgb(245,245,245)]]></wp:meta_value>
 			</wp:postmeta>
+								<wp:postmeta>
+			<wp:meta_key><![CDATA[__omnis-external-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#terrie]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>man_1</title>
+			<title><![CDATA[Trace Roscoe]]></title>
 			<guid isPermaLink="false">https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_1.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
-			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<excerpt:encoded><![CDATA[Dev Lead]]></excerpt:encoded>
 			<wp:post_id>3522</wp:post_id>
 			<wp:comment_status><![CDATA[open]]></wp:comment_status>
 			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
@@ -144,26 +156,30 @@
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_1.jpg]]></wp:attachment_url>
+							<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_1.jpg]]></wp:attachment_url>
 												<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2019/01/man_1.jpg]]></wp:meta_value>
 			</wp:postmeta>
-							<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:2000;s:4:"file";s:17:"2019/01/man_1.jpg";s:5:"sizes";a:18:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"man_1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"man_1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:17:"man_1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"man_1-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:8:"dominant";a:4:{s:4:"file";s:15:"man_1-10x10.jpg";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:17:"man_1-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"man_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:17:"man_1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:17:"man_1-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:19:"man_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:17:"man_1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"resized-1000x0";a:4:{s:4:"file";s:19:"man_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x2000";a:4:{s:4:"file";s:19:"man_1-2000x2000.jpg";s:5:"width";i:2000;s:6:"height";i:2000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-1000x1000";a:4:{s:4:"file";s:19:"man_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-150x150";a:4:{s:4:"file";s:17:"man_1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-300x300";a:4:{s:4:"file";s:17:"man_1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-100x100";a:4:{s:4:"file";s:17:"man_1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-200x200";a:4:{s:4:"file";s:17:"man_1-200x200.jpg";s:5:"width";i:200;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:2000;s:4:"file";s:17:"2019/01/man_1.jpg";s:5:"sizes";a:20:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"man_1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"man_1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:17:"man_1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"man_1-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:8:"dominant";a:4:{s:4:"file";s:15:"man_1-10x10.jpg";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:17:"man_1-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"man_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:17:"man_1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:17:"man_1-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:19:"man_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:17:"man_1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"resized-1000x0";a:4:{s:4:"file";s:19:"man_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x2000";a:4:{s:4:"file";s:19:"man_1-2000x2000.jpg";s:5:"width";i:2000;s:6:"height";i:2000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-1000x1000";a:4:{s:4:"file";s:19:"man_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-150x150";a:4:{s:4:"file";s:17:"man_1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-300x300";a:4:{s:4:"file";s:17:"man_1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-100x100";a:4:{s:4:"file";s:17:"man_1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-200x200";a:4:{s:4:"file";s:17:"man_1-200x200.jpg";s:5:"width";i:200;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:16:"ipq-800x800-true";a:4:{s:4:"file";s:17:"man_1-800x800.jpg";s:5:"width";i:800;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ipq-1600x1600-true";a:4:{s:4:"file";s:19:"man_1-1600x1600.jpg";s:5:"width";i:1600;s:6:"height";i:1600;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 			</wp:postmeta>
-							<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[__dominant_color]]></wp:meta_key>
 			<wp:meta_value><![CDATA[rgb(245,245,245)]]></wp:meta_value>
 			</wp:postmeta>
+								<wp:postmeta>
+			<wp:meta_key><![CDATA[__omnis-external-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#trace]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>man_2</title>
+			<title><![CDATA[Oscar Briar]]></title>
 			<guid isPermaLink="false">https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_2.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
-			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<excerpt:encoded><![CDATA[CEO & Founder]]></excerpt:encoded>
 			<wp:post_id>3523</wp:post_id>
 			<wp:comment_status><![CDATA[open]]></wp:comment_status>
 			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
@@ -174,22 +190,26 @@
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_2.jpg]]></wp:attachment_url>
+							<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_2.jpg]]></wp:attachment_url>
 												<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2019/01/man_2.jpg]]></wp:meta_value>
 			</wp:postmeta>
-							<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:2000;s:4:"file";s:17:"2019/01/man_2.jpg";s:5:"sizes";a:18:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"man_2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"man_2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:17:"man_2-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"man_2-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:8:"dominant";a:4:{s:4:"file";s:15:"man_2-10x10.jpg";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:17:"man_2-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"man_2-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:17:"man_2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:17:"man_2-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:19:"man_2-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:17:"man_2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"resized-1000x0";a:4:{s:4:"file";s:19:"man_2-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x2000";a:4:{s:4:"file";s:19:"man_2-2000x2000.jpg";s:5:"width";i:2000;s:6:"height";i:2000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-1000x1000";a:4:{s:4:"file";s:19:"man_2-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:13:"resized-80x80";a:4:{s:4:"file";s:15:"man_2-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-160x160";a:4:{s:4:"file";s:17:"man_2-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-150x150";a:4:{s:4:"file";s:17:"man_2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-300x300";a:4:{s:4:"file";s:17:"man_2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:2000;s:4:"file";s:17:"2019/01/man_2.jpg";s:5:"sizes";a:20:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"man_2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"man_2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:17:"man_2-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"man_2-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:8:"dominant";a:4:{s:4:"file";s:15:"man_2-10x10.jpg";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:17:"man_2-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"man_2-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:17:"man_2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:17:"man_2-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:19:"man_2-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:17:"man_2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"resized-1000x0";a:4:{s:4:"file";s:19:"man_2-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x2000";a:4:{s:4:"file";s:19:"man_2-2000x2000.jpg";s:5:"width";i:2000;s:6:"height";i:2000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-1000x1000";a:4:{s:4:"file";s:19:"man_2-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:13:"resized-80x80";a:4:{s:4:"file";s:15:"man_2-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-160x160";a:4:{s:4:"file";s:17:"man_2-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-150x150";a:4:{s:4:"file";s:17:"man_2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-300x300";a:4:{s:4:"file";s:17:"man_2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:16:"ipq-800x800-true";a:4:{s:4:"file";s:17:"man_2-800x800.jpg";s:5:"width";i:800;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ipq-1600x1600-true";a:4:{s:4:"file";s:19:"man_2-1600x1600.jpg";s:5:"width";i:1600;s:6:"height";i:1600;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 			</wp:postmeta>
-							<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[__dominant_color]]></wp:meta_key>
 			<wp:meta_value><![CDATA[rgb(245,245,245)]]></wp:meta_value>
 			</wp:postmeta>
+								<wp:postmeta>
+			<wp:meta_key><![CDATA[__omnis-external-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#oscar]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>man_3</title>
+			<title><![CDATA[man_3]]></title>
 			<guid isPermaLink="false">https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_3.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
@@ -204,22 +224,22 @@
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-									<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_3.jpg]]></wp:attachment_url>
-																<wp:postmeta>
+							<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_3.jpg]]></wp:attachment_url>
+												<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2019/01/man_3.jpg]]></wp:meta_value>
 			</wp:postmeta>
-										<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:2000;s:4:"file";s:17:"2019/01/man_3.jpg";s:5:"sizes";a:14:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"man_3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"man_3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:17:"man_3-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"man_3-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:8:"dominant";a:4:{s:4:"file";s:15:"man_3-10x10.jpg";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:17:"man_3-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"man_3-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:17:"man_3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:17:"man_3-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:19:"man_3-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:17:"man_3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"resized-1000x0";a:4:{s:4:"file";s:19:"man_3-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x2000";a:4:{s:4:"file";s:19:"man_3-2000x2000.jpg";s:5:"width";i:2000;s:6:"height";i:2000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-1000x1000";a:4:{s:4:"file";s:19:"man_3-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2000;s:6:"height";i:2000;s:4:"file";s:17:"2019/01/man_3.jpg";s:5:"sizes";a:16:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"man_3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"man_3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:17:"man_3-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"man_3-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:8:"dominant";a:4:{s:4:"file";s:15:"man_3-10x10.jpg";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:17:"man_3-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"man_3-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:17:"man_3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:17:"man_3-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:19:"man_3-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:17:"man_3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"resized-1000x0";a:4:{s:4:"file";s:19:"man_3-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x2000";a:4:{s:4:"file";s:19:"man_3-2000x2000.jpg";s:5:"width";i:2000;s:6:"height";i:2000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-1000x1000";a:4:{s:4:"file";s:19:"man_3-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:16:"ipq-800x800-true";a:4:{s:4:"file";s:17:"man_3-800x800.jpg";s:5:"width";i:800;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ipq-1600x1600-true";a:4:{s:4:"file";s:19:"man_3-1600x1600.jpg";s:5:"width";i:1600;s:6:"height";i:1600;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:10:"ipq_locked";b:1;}]]></wp:meta_value>
 			</wp:postmeta>
-										<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[__dominant_color]]></wp:meta_key>
 			<wp:meta_value><![CDATA[rgb(245,245,245)]]></wp:meta_value>
 			</wp:postmeta>
 		</item>
 		<item>
-			<title>man_4</title>
+			<title><![CDATA[man_4]]></title>
 			<guid isPermaLink="false">https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_4.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
@@ -234,22 +254,22 @@
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-									<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_4.jpg]]></wp:attachment_url>
-																<wp:postmeta>
+							<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_4.jpg]]></wp:attachment_url>
+												<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2019/01/man_4.jpg]]></wp:meta_value>
 			</wp:postmeta>
-										<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:2000;s:4:"file";s:17:"2019/01/man_4.jpg";s:5:"sizes";a:13:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"man_4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"man_4-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:17:"man_4-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"man_4-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:8:"dominant";a:4:{s:4:"file";s:15:"man_4-10x10.jpg";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:17:"man_4-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"man_4-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:17:"man_4-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:17:"man_4-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:19:"man_4-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:17:"man_4-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"resized-1000x0";a:4:{s:4:"file";s:19:"man_4-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x2000";a:4:{s:4:"file";s:19:"man_4-2000x2000.jpg";s:5:"width";i:2000;s:6:"height";i:2000;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2000;s:6:"height";i:2000;s:4:"file";s:17:"2019/01/man_4.jpg";s:5:"sizes";a:15:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"man_4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"man_4-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:17:"man_4-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"man_4-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:8:"dominant";a:4:{s:4:"file";s:15:"man_4-10x10.jpg";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:17:"man_4-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"man_4-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:17:"man_4-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:17:"man_4-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:19:"man_4-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:17:"man_4-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"resized-1000x0";a:4:{s:4:"file";s:19:"man_4-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x2000";a:4:{s:4:"file";s:19:"man_4-2000x2000.jpg";s:5:"width";i:2000;s:6:"height";i:2000;s:9:"mime-type";s:10:"image/jpeg";}s:16:"ipq-800x800-true";a:4:{s:4:"file";s:17:"man_4-800x800.jpg";s:5:"width";i:800;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";}s:18:"ipq-1600x1600-true";a:4:{s:4:"file";s:19:"man_4-1600x1600.jpg";s:5:"width";i:1600;s:6:"height";i:1600;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:10:"ipq_locked";b:1;}]]></wp:meta_value>
 			</wp:postmeta>
-										<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[__dominant_color]]></wp:meta_key>
 			<wp:meta_value><![CDATA[rgb(245,245,245)]]></wp:meta_value>
 			</wp:postmeta>
 		</item>
 		<item>
-			<title>man_5</title>
+			<title><![CDATA[man_5]]></title>
 			<guid isPermaLink="false">https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_5.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
@@ -264,26 +284,26 @@
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-									<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_5.jpg]]></wp:attachment_url>
-																<wp:postmeta>
+							<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_5.jpg]]></wp:attachment_url>
+												<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2019/01/man_5.jpg]]></wp:meta_value>
 			</wp:postmeta>
-										<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:2000;s:4:"file";s:17:"2019/01/man_5.jpg";s:5:"sizes";a:14:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"man_5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"man_5-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:17:"man_5-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"man_5-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:8:"dominant";a:4:{s:4:"file";s:15:"man_5-10x10.jpg";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:17:"man_5-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"man_5-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:17:"man_5-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:17:"man_5-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:19:"man_5-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:17:"man_5-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-1000x1000";a:4:{s:4:"file";s:19:"man_5-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x2000";a:4:{s:4:"file";s:19:"man_5-2000x2000.jpg";s:5:"width";i:2000;s:6:"height";i:2000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"resized-1000x0";a:4:{s:4:"file";s:19:"man_5-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 			</wp:postmeta>
-										<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[__dominant_color]]></wp:meta_key>
 			<wp:meta_value><![CDATA[rgb(245,245,245)]]></wp:meta_value>
 			</wp:postmeta>
 		</item>
 		<item>
-			<title>man_6</title>
+			<title><![CDATA[Romy Andrade]]></title>
 			<guid isPermaLink="false">https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_6.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
-			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<excerpt:encoded><![CDATA[Developer]]></excerpt:encoded>
 			<wp:post_id>3527</wp:post_id>
 			<wp:comment_status><![CDATA[open]]></wp:comment_status>
 			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
@@ -294,26 +314,30 @@
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-									<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_6.jpg]]></wp:attachment_url>
-																<wp:postmeta>
+							<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/man_6.jpg]]></wp:attachment_url>
+												<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2019/01/man_6.jpg]]></wp:meta_value>
 			</wp:postmeta>
-										<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:2000;s:4:"file";s:17:"2019/01/man_6.jpg";s:5:"sizes";a:16:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"man_6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"man_6-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:17:"man_6-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"man_6-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:8:"dominant";a:4:{s:4:"file";s:15:"man_6-10x10.jpg";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:17:"man_6-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"man_6-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:17:"man_6-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:17:"man_6-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:19:"man_6-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:17:"man_6-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"resized-1000x0";a:4:{s:4:"file";s:19:"man_6-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x2000";a:4:{s:4:"file";s:19:"man_6-2000x2000.jpg";s:5:"width";i:2000;s:6:"height";i:2000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-1000x1000";a:4:{s:4:"file";s:19:"man_6-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-150x150";a:4:{s:4:"file";s:17:"man_6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:15:"resized-300x300";a:4:{s:4:"file";s:17:"man_6-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 			</wp:postmeta>
-										<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[__dominant_color]]></wp:meta_key>
 			<wp:meta_value><![CDATA[rgb(245,245,245)]]></wp:meta_value>
 			</wp:postmeta>
+								<wp:postmeta>
+			<wp:meta_key><![CDATA[__omnis-external-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#romy]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>dog_1</title>
+			<title><![CDATA[Bucky]]></title>
 			<guid isPermaLink="false">https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/dog_1.jpg</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
-			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<excerpt:encoded><![CDATA[Good boy]]></excerpt:encoded>
 			<wp:post_id>3513</wp:post_id>
 			<wp:comment_status><![CDATA[open]]></wp:comment_status>
 			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
@@ -324,22 +348,22 @@
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/dog_1.jpg]]></wp:attachment_url>
+							<wp:attachment_url><![CDATA[https://demo.loprd.pl/omnis/wp-content/uploads/2019/01/dog_1.jpg]]></wp:attachment_url>
 												<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2019/01/dog_1.jpg]]></wp:meta_value>
 			</wp:postmeta>
-							<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:2000;s:4:"file";s:17:"2019/01/dog_1.jpg";s:5:"sizes";a:14:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"dog_1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"dog_1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:17:"dog_1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"dog_1-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:8:"dominant";a:4:{s:4:"file";s:15:"dog_1-10x10.jpg";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:17:"dog_1-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"dog_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:17:"dog_1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:17:"dog_1-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:19:"dog_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:17:"dog_1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-1000x1000";a:4:{s:4:"file";s:19:"dog_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}s:17:"resized-2000x2000";a:4:{s:4:"file";s:19:"dog_1-2000x2000.jpg";s:5:"width";i:2000;s:6:"height";i:2000;s:9:"mime-type";s:10:"image/jpeg";}s:14:"resized-1000x0";a:4:{s:4:"file";s:19:"dog_1-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 			</wp:postmeta>
-							<wp:postmeta>
+								<wp:postmeta>
 			<wp:meta_key><![CDATA[__dominant_color]]></wp:meta_key>
 			<wp:meta_value><![CDATA[rgb(245,245,245)]]></wp:meta_value>
 			</wp:postmeta>
-			</item>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:301;s:6:"height";i:120;s:4:"file";s:26:"2019/01/logo_wordpress.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"logo_wordpress-150x120.png";s:5:"width";i:150;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:26:"logo_wordpress-300x120.png";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";}s:8:"dominant";a:4:{s:4:"file";s:24:"logo_wordpress-10x10.png";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:26:"logo_wordpress-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:26:"logo_wordpress-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+								<wp:postmeta>
+			<wp:meta_key><![CDATA[__omnis-external-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#bucky]]></wp:meta_value>
 			</wp:postmeta>
 		</item>
 

@@ -1248,5 +1248,42 @@
             <wp:meta_value><![CDATA[.vc_custom_1568117072902{border-bottom-width: 1px !important;border-bottom-color: #252525 !important;border-bottom-style: solid !important;}]]></wp:meta_value>
             </wp:postmeta>
 		</item>
+        <item>
+            <title><![CDATA[Top Content - Welcome (#5631e2)]]></title>
+            <guid isPermaLink="false">https://demo.loprd.pl/omnis/?post_type=omnis_elements&#038;p=10275</guid>
+            <description></description>
+            <content:encoded><![CDATA[[vc_row row_section_padding="padding-top:none|padding-bottom:none" row_section_container_width="_inherit_from_navigation" row_container_height_custom="70" row_column_content_alignment_v="center" row_rows_gap="single" row_content_txt_skin="txt--light" row_background_color="#5631e2" row_flex_wrap="nowrap"][vc_column width="2/3" offset="vc_hidden-xs"][vc_custom_heading heading_text="Welcome to Omnis Next-Gen WordPress Theme. There is plenty to see." heading_container="p" heading_typography="size-class:font-size-small"][/vc_column][vc_column column_alignment_h="right" width="1/3" offset="vc_col-xs-12"][loprd_navigation nav_menu="128" nav_menu_layout="horizontal" nav_menu_typo="text-transform:none"][/vc_column][/vc_row]]]></content:encoded>
+            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+            <wp:post_id>10275</wp:post_id>
+            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+            <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+            <wp:post_name><![CDATA[top-content-gradient]]></wp:post_name>
+            <wp:status><![CDATA[publish]]></wp:status>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type><![CDATA[omnis_elements]]></wp:post_type>
+            <wp:post_password><![CDATA[]]></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+                                                            <wp:postmeta>
+            <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+            <wp:meta_value><![CDATA[1]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[default]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[rs_page_bg_color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+            <wp:meta_value><![CDATA[true]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[_omnis_shortcodes_dynamic_css]]></wp:meta_key>
+            <wp:meta_value><![CDATA[.dynamic_style-b601e8026d3c1bae597f .main-header__menu-items > div .menu li .sub-menu li.menu-item--title-item > a,.dynamic_style-b601e8026d3c1bae597f .main-header__menu-items > div > .menu > li > a{text-transform:none;}]]></wp:meta_value>
+            </wp:postmeta>
+		</item>
     </channel>
 </rss>

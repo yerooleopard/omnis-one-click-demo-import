@@ -9,10 +9,10 @@
 
     <channel>
         <item>
-            <title>Home - Grids</title>
+            <title><![CDATA[Home - Grids]]></title>
             <guid isPermaLink="false">https://demo.loprd.pl/omnis/?page_id=6326</guid>
             <description></description>
-            <content:encoded><![CDATA[[vc_section css=".vc_custom_1556137989783{border-bottom-width: 1px !important;border-bottom-style: solid !important;}"][vc_row row_columns_gap="double"][vc_column column_padding="padding-top:none|padding-bottom:none|padding-side:none" width="1/6" css=".vc_custom_1556113877698{border-right-width: 1px !important;border-right-style: solid !important;}"][vc_custom_heading heading_text="projects" heading_container="h1" heading_type_bg_direction="vertical" heading_typography="size-class:h2-size"][/vc_column][vc_column width="5/6"][loprd_loop loop="size:5|order_by:date|post_type:portfolio|tax_query:-73,-79" grid_layout="masonry" _grid_columns="desktop:3" grid_columns_gap="half" grid_rows_gap="half" post_layout_ratio="3:5" grid_layout_adjust="adjusted" post_content_layout="meta,title" post_meta="`{`omnis_cats`}`" post_drop_shadow="" post_content_padding="padding-top:half|padding-bottom:half" post_content_el_padding="title:none" post_title_typo="size-class:body-size|font-weight:400|letter-spacing:0px" post_meta_typo="size-class:body-size" grid_selector_pattern="1" _selector_grid_columns="desktop:6" animation="from-bottom" animation_delay="200"][vc_button2 title="Go to Portfolio" button_type="btn-outlined" button_size="btn-lg" button_width="btn-block" link="url:%23|||"][/vc_column][/vc_row][/vc_section][vc_row][vc_column width="1/4"][vc_custom_heading heading_text="about" heading_container="h2" heading_typography="size-class:h1-alt|font-weight:700" heading_color="transparent" heading_color_stroke="#1a1a1a"][vc_empty_space][vc_button2 title="Read more" button_color="btn-light" button_size="btn-lg" link="url:%23|||"][/vc_column][vc_column width="3/4"][vc_row_inner row_columns_gap="half" row_rows_gap="half"][vc_column_inner width="1/2"][vc_custom_heading heading_text="Suspendisse vestibulum, dui eu consectetur condimentum, sapien nulla maximus urna, et maximus dolor orci eu mauris. Pellentesque dictum pretium risus, vel imperdiet odio porttitor in. Proin porta libero ac iaculis egestas. Etiam convallis consectetur ultricies. Suspendisse eget dictum erat." heading_container="p" heading_h_alignment="justify" heading_typography="size-class:h3-size" heading_color="linear-gradient(90deg, #1a1a1a 66%, transparent 100%)"][/vc_column_inner][vc_column_inner width="1/2"][vc_custom_heading heading_text="Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque mattis facilisis ante. Nullam porttitor, nulla vel vestibulum egestas, arcu mauris varius metus, ac malesuada quam massa id arcu. Ut dignissim turpis at ipsum aliquet rhoncus." heading_container="p" heading_h_alignment="justify" heading_typography="size-class:h3-size" heading_color="linear-gradient(90deg, #1a1a1a 66%, transparent 100%)"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_section css=".vc_custom_1556105848362{border-top-width: 1px !important;border-bottom-width: 1px !important;border-top-style: solid !important;border-bottom-style: solid !important;}"][vc_row row_columns_gap="double"][vc_column column_padding="padding-top:none|padding-bottom:none|padding-side:none" width="1/6" css=".vc_custom_1556113877698{border-right-width: 1px !important;border-right-style: solid !important;}"][vc_custom_heading heading_text="news" heading_container="h2" heading_type_bg_direction="vertical"][/vc_column][vc_column width="5/6"][loprd_loop loop="size:6|order_by:date" grid_layout="masonry" _grid_columns="desktop:3" grid_columns_gap="half" grid_rows_gap="half" post_layout_ratio="3:5" grid_layout_adjust="adjusted" post_content_layout="meta,title" post_meta="`{`omnis_date`}`" post_alignment_v="top" post_drop_shadow="" post_content_padding="padding-top:half|padding-bottom:half" post_content_el_padding="title:none" post_title_typo="size-class:body-size|font-weight:400|letter-spacing:0px" post_meta_typo="size-class:body-size" grid_selector_pattern="1,2" _selector_grid_columns="desktop:6" grid_selector_post_layout_ratio="5:3" animation="from-bottom" animation_delay="200"][vc_button2 title="Go to Blog" button_type="btn-outlined" button_size="btn-lg" button_width="btn-block" link="url:%23|||"][/vc_column][/vc_row][/vc_section][vc_row][vc_column width="1/2"][vc_custom_heading heading_text="contact" heading_container="h2" heading_typography="size-class:h1-alt|font-weight:700" heading_color="transparent" heading_color_stroke="#1a1a1a"][/vc_column][vc_column column_alignment_h="right" width="1/2"][vc_icon type="material" icon_material="vc-material vc-material-mail_outline" icon_typography="font-size:60" icon_style="bg" icon_bg_shadow="drop-shadow" icon_link_transition="to-bottom" icon_link="url:%23|||"][/vc_column][/vc_row][vc_section css=".vc_custom_1556128930792{border-top-width: 1px !important;border-bottom-width: 1px !important;border-top-style: solid !important;border-bottom-style: solid !important;}"][vc_row row_columns_gap="double"][vc_column column_padding="padding-top:none|padding-bottom:none|padding-side:none" width="1/6" css=".vc_custom_1556113877698{border-right-width: 1px !important;border-right-style: solid !important;}"][vc_custom_heading heading_text="merchandise" heading_container="h2" heading_type_bg_direction="vertical"][/vc_column][vc_column width="5/6"][loprd_loop loop="size:3|order_by:date|post_type:product|tax_query:-96" grid_layout="masonry" _grid_columns="desktop:3" grid_columns_gap="half" grid_rows_gap="half" post_layout_ratio="3:5" grid_layout_adjust="adjusted" post_content_layout="price,title" post_meta="`{`omnis_date`}`" post_alignment_v="top" post_drop_shadow="" post_content_padding="padding-top:half|padding-bottom:half" post_content_el_padding="title:none" post_title_typo="size-class:body-size|font-weight:400|letter-spacing:0px" post_meta_typo="size-class:body-size" grid_selector_pattern="1" _selector_grid_columns="desktop:6" grid_selector_post_layout_ratio="6:5" animation="from-bottom" animation_delay="200"][vc_button2 title="Go to Shop" button_type="btn-outlined" button_size="btn-lg" button_width="btn-block" link="url:%23|||"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
+            <content:encoded><![CDATA[[vc_section css=".vc_custom_1556137989783{border-bottom-width: 1px !important;border-bottom-style: solid !important;}"][vc_row row_columns_gap="fluid-double"][vc_column column_padding="padding-top:none|padding-bottom:none|padding-side:none" width="1/6" css=".vc_custom_1556113877698{border-right-width: 1px !important;border-right-style: solid !important;}"][vc_custom_heading heading_text="projects" heading_container="h1" heading_type_bg_direction="vertical" heading_typography="size-class:h2-size"][/vc_column][vc_column width="5/6"][loprd_loop loop="size:5|order_by:date|post_type:portfolio|tax_query:-73,-79" grid_layout="masonry" _grid_columns="desktop:3" grid_columns_gap="half" grid_rows_gap="half" post_layout_ratio="3:5" grid_layout_adjust="adjusted" post_content_layout="title,meta2,meta" post_meta="`{`omnis_cats`}`" post_meta2="—" post_drop_shadow="" post_border="solid" post_content_padding="padding-top:half|padding-bottom:half|padding-side:half" post_content_el_padding="title:inline|meta:inline|meta-2:inline" post_title_typo="size-class:body-size" post_meta_typo="size-class:body-size" grid_selector_pattern="1" _selector_grid_columns="desktop:6" animation="from-bottom" animation_delay="200"][vc_button2 title="Go to Portfolio" button_type="btn-outlined" button_size="btn-lg" button_width="btn-block" link="url:https%3A%2F%2Fdemo.loprd.pl%2Fomnis%2Fworks-wide-expanded-grid%2F|title:Works%20%E2%80%93%20Wide%20Expanded%20Grid"][/vc_column][/vc_row][/vc_section][vc_row row_columns_gap="fluid-double"][vc_column width="1/4"][vc_custom_heading heading_text="about" heading_container="h2" heading_typography="size-class:h1-alt|text-transform:uppercase" heading_color="transparent" heading_color_stroke="#1a1a1a"][vc_empty_space][vc_button2 title="Read more" button_size="btn-lg" link="url:%23|||"][/vc_column][vc_column width="3/4"][vc_row_inner row_columns_gap="half" row_rows_gap="half"][vc_column_inner width="1/2"][vc_custom_heading heading_text="Suspendisse vestibulum, dui eu consectetur condimentum, sapien nulla maximus urna, et maximus dolor orci eu mauris. Pellentesque dictum pretium risus, vel imperdiet odio porttitor in. Proin porta libero ac iaculis egestas. Etiam convallis consectetur ultricies. Suspendisse eget dictum erat." heading_container="p" heading_h_alignment="justify" heading_typography="size-class:h3-size" heading_color="linear-gradient(90deg, #1a1a1a 66%, transparent 100%)"][/vc_column_inner][vc_column_inner width="1/2"][vc_custom_heading heading_text="Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque mattis facilisis ante. Nullam porttitor, nulla vel vestibulum egestas, arcu mauris varius metus, ac malesuada quam massa id arcu. Ut dignissim turpis at ipsum aliquet rhoncus." heading_container="p" heading_h_alignment="justify" heading_typography="size-class:h3-size" heading_color="linear-gradient(90deg, #1a1a1a 66%, transparent 100%)"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_section css=".vc_custom_1556105848362{border-top-width: 1px !important;border-bottom-width: 1px !important;border-top-style: solid !important;border-bottom-style: solid !important;}"][vc_row row_columns_gap="fluid-double"][vc_column column_padding="padding-top:none|padding-bottom:none|padding-side:none" width="1/6" css=".vc_custom_1556113877698{border-right-width: 1px !important;border-right-style: solid !important;}"][vc_custom_heading heading_text="news" heading_container="h2" heading_type_bg_direction="vertical" heading_typography="text-transform:uppercase|font-weight:700"][/vc_column][vc_column width="5/6"][loprd_loop loop="size:6|order_by:date" grid_layout="masonry" _grid_columns="desktop:3" grid_columns_gap="half" grid_rows_gap="half" post_layout_ratio="3:5" grid_layout_adjust="adjusted" post_content_layout="title,meta2,meta" post_meta="`{`omnis_date ago=``true```}`" post_meta2="—" post_drop_shadow="" post_border="solid" post_content_padding="padding-top:half|padding-bottom:half|padding-side:half" post_content_el_padding="title:inline|meta:inline|meta-2:inline" post_title_typo="size-class:body-size" post_meta_typo="size-class:body-size" grid_selector_pattern="1,2" _selector_grid_columns="desktop:6" grid_selector_post_layout_ratio="5:3" animation="from-bottom" animation_delay="200"][vc_button2 title="Go to Blog" button_type="btn-outlined" button_size="btn-lg" button_width="btn-block" link="url:https%3A%2F%2Fdemo.loprd.pl%2Fomnis%2Fblog-grid-w-subtitles%2F|title:Blog%20%E2%80%93%20Grid%20w%2F%20Subtitles%20(2%20Cols)"][/vc_column][/vc_row][/vc_section][vc_row][vc_column width="1/2"][vc_custom_heading heading_text="contact" heading_container="h2" heading_typography="size-class:h1-alt|text-transform:uppercase" heading_color="transparent" heading_color_stroke="#1a1a1a"][/vc_column][vc_column column_alignment_h="right" width="1/2"][vc_icon type="material" icon_material="vc-material vc-material-mail_outline" icon_typography="font-size:60" icon_style="bg" icon_bg_shadow="drop-shadow" icon_link_transition="to-bottom" icon_link="url:%23|||"][/vc_column][/vc_row][vc_section css=".vc_custom_1556128930792{border-top-width: 1px !important;border-bottom-width: 1px !important;border-top-style: solid !important;border-bottom-style: solid !important;}"][vc_row row_columns_gap="fluid-double"][vc_column column_padding="padding-top:none|padding-bottom:none|padding-side:none" width="1/6" css=".vc_custom_1556113877698{border-right-width: 1px !important;border-right-style: solid !important;}"][vc_custom_heading heading_text="merchandise" heading_container="h2" heading_type_bg_direction="vertical" heading_typography="text-transform:uppercase|font-weight:700"][/vc_column][vc_column width="5/6"][loprd_loop loop="size:3|order_by:date|post_type:product|tax_query:-96" grid_layout="masonry" _grid_columns="desktop:3" grid_columns_gap="half" grid_rows_gap="half" post_layout_ratio="3:5" grid_layout_adjust="adjusted" post_content_layout="title,meta2,price" post_meta="`{`omnis_date`}`" post_meta2="—" post_content_skin_custom_meta="#1a1a1a" post_drop_shadow="" post_border="solid" post_content_padding="padding-top:half|padding-bottom:half|padding-side:half" post_content_el_padding="title:inline|meta-2:inline|price:inline" post_title_typo="size-class:body-size" post_meta_typo="size-class:body-size" grid_selector_pattern="1" _selector_grid_columns="desktop:6" grid_selector_post_layout_ratio="6:5" animation="from-bottom" animation_delay="200"][vc_button2 title="Go to Shop" button_type="btn-outlined" button_size="btn-lg" button_width="btn-block" link="url:https%3A%2F%2Fdemo.loprd.pl%2Fomnis%2Fshop%2F|title:Shop"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
             <wp:post_id>6326</wp:post_id>
             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -33,20 +33,16 @@
             <wp:meta_value><![CDATA[default]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
-            <wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-            <wp:meta_value><![CDATA[default]]></wp:meta_value>
-            </wp:postmeta>
-                                <wp:postmeta>
             <wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
             <wp:meta_value><![CDATA[true]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__page-image]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:9:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";s:5:"title";s:0:"";s:7:"caption";s:0:"";s:3:"alt";s:0:"";s:11:"description";s:0:"";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__page-image-bg-settings]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:6:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout_nav__txt-custom-links]]></wp:meta_key>
@@ -70,7 +66,7 @@
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__template]]></wp:meta_key>
-            <wp:meta_value><![CDATA[home-template-side-nav-right]]></wp:meta_value>
+            <wp:meta_value><![CDATA[home-template-side-nav-100]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
@@ -82,23 +78,43 @@
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout_footer__color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout_footer__bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
-            </wp:postmeta>
-                                <wp:postmeta>
-            <wp:meta_key><![CDATA[post_omnis__layout_content__bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[post_omnis__layout__body-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:1:{s:5:"alpha";s:1:"1";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
-		</item>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_content__color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_content__bg-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:0:"";s:4:"rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_nav__sticky-border]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"style";s:12:"meta-inherit";s:5:"width";s:0:"";s:5:"color";s:0:"";s:11:"color-alpha";s:0:"";s:10:"color-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_nav__container-width-value]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_nav__container-padding]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:4:"side";s:12:"meta-inherit";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[post_omnis__layout_footer__container-width-value]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
         <item>
-            <title>Home Template - Side Nav Right</title>
+            <title><![CDATA[Home Template - Side Nav Right]]></title>
             <guid isPermaLink="false">https://demo.loprd.pl/omnis/?post_type=omnis_templates&#038;p=6332</guid>
             <description></description>
             <content:encoded><![CDATA[]]></content:encoded>
@@ -106,7 +122,7 @@
             <wp:post_id>6332</wp:post_id>
             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
             <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-            <wp:post_name><![CDATA[home-template-side-nav-right]]></wp:post_name>
+            <wp:post_name><![CDATA[home-template-side-nav-100]]></wp:post_name>
             <wp:status><![CDATA[publish]]></wp:status>
             <wp:post_parent>0</wp:post_parent>
             <wp:menu_order>0</wp:menu_order>
@@ -118,16 +134,12 @@
             <wp:meta_value><![CDATA[1]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
-            <wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-            <wp:meta_value><![CDATA[default]]></wp:meta_value>
-            </wp:postmeta>
-                                <wp:postmeta>
             <wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
             <wp:meta_value><![CDATA[false]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[omnis-templates__type]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:6:{s:4:"page";s:1:"1";s:4:"post";s:0:"";s:9:"portfolio";s:0:"";s:7:"product";s:0:"";s:7:"archive";s:0:"";s:6:"search";s:0:"";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:8:{s:4:"page";s:1:"1";s:4:"post";s:0:"";s:9:"portfolio";s:0:"";s:17:"archive_portfolio";s:0:"";s:7:"product";s:0:"";s:12:"archive_shop";s:0:"";s:7:"archive";s:0:"";s:6:"search";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout__container-width]]></wp:meta_key>
@@ -178,20 +190,12 @@
             <wp:meta_value><![CDATA[a:9:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";s:6:"active";s:0:"";s:12:"active-alpha";s:0:"";s:11:"active-rgba";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
-            <wp:meta_key><![CDATA[meta_omnis__layout_nav__bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
-            </wp:postmeta>
-                                <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_nav__border]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:5:{s:5:"style";s:11:"border-full";s:5:"width";s:0:"";s:5:"color";s:0:"";s:11:"color-alpha";s:0:"";s:10:"color-rgba";s:0:"";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:5:{s:5:"style";s:1:"0";s:5:"width";s:0:"";s:5:"color";s:0:"";s:11:"color-alpha";s:0:"";s:10:"color-rgba";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_nav__sticky-txt-custom-links]]></wp:meta_key>
             <wp:meta_value><![CDATA[a:9:{s:7:"regular";s:0:"";s:13:"regular-alpha";s:0:"";s:12:"regular-rgba";s:0:"";s:5:"hover";s:0:"";s:11:"hover-alpha";s:0:"";s:10:"hover-rgba";s:0:"";s:6:"active";s:0:"";s:12:"active-alpha";s:0:"";s:11:"active-rgba";s:0:"";}]]></wp:meta_value>
-            </wp:postmeta>
-                                <wp:postmeta>
-            <wp:meta_key><![CDATA[meta_omnis__layout_nav__sticky-bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_nav__height]]></wp:meta_key>
@@ -239,11 +243,11 @@
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_content__padding]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:3:{s:3:"top";s:12:"meta-inherit";s:6:"bottom";s:12:"meta-inherit";s:4:"side";s:6:"double";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:3:{s:3:"top";s:12:"meta-inherit";s:6:"bottom";s:12:"meta-inherit";s:4:"side";s:12:"fluid-double";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_nav__txt-skin]]></wp:meta_key>
-            <wp:meta_value><![CDATA[txt--dark]]></wp:meta_value>
+            <wp:meta_value><![CDATA[txt--light]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout__navigation]]></wp:meta_key>
@@ -279,11 +283,43 @@
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_skin__dark]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:9:{s:7:"primary";s:0:"";s:13:"primary-alpha";s:0:"";s:12:"primary-rgba";s:0:"";s:9:"secondary";s:0:"";s:15:"secondary-alpha";s:0:"";s:14:"secondary-rgba";s:0:"";s:6:"border";s:0:"";s:12:"border-alpha";s:0:"";s:11:"border-rgba";s:0:"";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:15:{s:7:"primary";s:0:"";s:13:"primary-alpha";s:0:"";s:12:"primary-rgba";s:0:"";s:9:"secondary";s:0:"";s:15:"secondary-alpha";s:0:"";s:14:"secondary-rgba";s:0:"";s:6:"border";s:0:"";s:12:"border-alpha";s:0:"";s:11:"border-rgba";s:0:"";s:14:"primary-anchor";s:0:"";s:20:"primary-anchor-alpha";s:0:"";s:19:"primary-anchor-rgba";s:0:"";s:20:"primary-anchor-hover";s:0:"";s:26:"primary-anchor-hover-alpha";s:0:"";s:25:"primary-anchor-hover-rgba";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_skin__light]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:9:{s:7:"primary";s:0:"";s:13:"primary-alpha";s:0:"";s:12:"primary-rgba";s:0:"";s:9:"secondary";s:0:"";s:15:"secondary-alpha";s:0:"";s:14:"secondary-rgba";s:0:"";s:6:"border";s:0:"";s:12:"border-alpha";s:0:"";s:11:"border-rgba";s:0:"";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:15:{s:7:"primary";s:0:"";s:13:"primary-alpha";s:0:"";s:12:"primary-rgba";s:0:"";s:9:"secondary";s:0:"";s:15:"secondary-alpha";s:0:"";s:14:"secondary-rgba";s:0:"";s:6:"border";s:0:"";s:12:"border-alpha";s:0:"";s:11:"border-rgba";s:0:"";s:14:"primary-anchor";s:0:"";s:20:"primary-anchor-alpha";s:0:"";s:19:"primary-anchor-rgba";s:0:"";s:20:"primary-anchor-hover";s:0:"";s:26:"primary-anchor-hover-alpha";s:0:"";s:25:"primary-anchor-hover-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[default]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__bg-color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[#5631e2]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[rs_page_bg_color]]></wp:meta_key>
+            <wp:meta_value><![CDATA[]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__container-width-value]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_nav__sticky-border]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"style";s:12:"meta-inherit";s:5:"width";s:0:"";s:5:"color";s:0:"";s:11:"color-alpha";s:0:"";s:10:"color-rgba";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_titlebar__container-width-value]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout_footer__container-width-value]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[meta_omnis__layout__top-content]]></wp:meta_key>
+            <wp:meta_value><![CDATA[top-content-gradient]]></wp:meta_value>
             </wp:postmeta>
 		</item>
     </channel>

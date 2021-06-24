@@ -13,7 +13,6 @@ function omnis_ocdi_import_files() {
 			'import_notice'              => $_templates_notice,
 			'attached_elements_settings' => array(
 				wp_kses( __('<span>(Element) Titlebar - Split (Side Image)</span> for Title Bar -> Title Bar Elements', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>(Font) Playfair Display</span> for Font Manager', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/dp/give-us-any-rule-well-break-it/?omnis_template=2543',
             'type'                       => 'template',
@@ -66,6 +65,7 @@ function omnis_ocdi_import_files() {
 			'import_notice'              => $_templates_notice,			
 			'attached_elements_settings' => array(
 				wp_kses( __('<span>(Element) Titlebar - Meta (Categories) on Top - for Classic with Sidebar</span> for Title Bar -> Title Bar Elements', 'omnis'), array('span' => array()) ),
+				wp_kses( __('<span>(Media) devices_top.png</span> for Title [vc_row] background', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/dp/give-us-any-rule-well-break-it/?omnis_template=530',
             'type'                       => 'template',
@@ -87,7 +87,6 @@ function omnis_ocdi_import_files() {
 			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/post/post_titlebar-centered-large-thumb.jpg',
 			'import_notice'              => $_templates_notice,			
 			'attached_elements_settings' => array(
-				wp_kses( __('<span>(Media) three_figures_f_light.png</span> for Title [vc_row] background', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/dp/give-us-any-rule-well-break-it/?omnis_template=409',
             'type'                       => 'template',
@@ -109,7 +108,6 @@ function omnis_ocdi_import_files() {
 			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/post/post_boxed-content.jpg',
 			'import_notice'              => $_templates_notice,
 			'attached_elements_settings' => array(
-				wp_kses( __('<span>(Font) Playfair Display</span> for Font Manager', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/dp/give-us-any-rule-well-break-it/?omnis_template=353',
             'type'                       => 'template',
@@ -164,9 +162,8 @@ function omnis_ocdi_import_files() {
 			'attached_elements_settings' => array(
 				wp_kses( __('<span>(Element) Titlebar - Project Intoduction</span> for Title Bar -> Title Bar Elements', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>(Element) Project – Meta Data Column</span> for Extra Content (optional)', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>(Font) Playfair Display</span> for Font Manager', 'omnis'), array('span' => array()) ),
 			),
-            'preview_url'                => 'https://demo.loprd.pl/omnis/dp/project/al-branding/?omnis_template=7985',
+            'preview_url'                => 'https://demo.loprd.pl/omnis/dp/project/vitae-app/?omnis_template=7985',
             'type'                       => 'template',
 		),
 		array(
@@ -178,7 +175,7 @@ function omnis_ocdi_import_files() {
 			'attached_elements_settings' => array(
 				wp_kses( __('<span>(Element) Project – Meta Data Column</span> for Extra Content (optional)', 'omnis'), array('span' => array()) ),
 			),
-            'preview_url'                => 'https://demo.loprd.pl/omnis/dp/project/al-branding/?omnis_template=4732',
+            'preview_url'                => 'https://demo.loprd.pl/omnis/dp/project/vitae-app/?omnis_template=4732',
             'type'                       => 'template',
 		),
 
@@ -190,7 +187,6 @@ function omnis_ocdi_import_files() {
 			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/shop/product_vertical-gallery.jpg',
 			'import_notice'              => $_templates_notice,
 			'attached_elements_settings' => array(
-				wp_kses( __('<span>(Font) Playfair Display</span> for Font Manager', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/product/journal/?omnis_template=8028',
             'type'                       => 'template',
@@ -332,7 +328,6 @@ function omnis_ocdi_import_files() {
 				wp_kses( __('<span>↑ (Element) Titlebar - Large Title-Subtitle - Shadow - #5631e2</span> for Pages \'Title Bar Elements\' Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>↑ (Template) Template - Modern Page</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>⤥ (Element) Titlebar - Large Subtitle - Simple</span> for Template \'Title Bar Elements\' Option', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>↑ (Font) Playfair Display</span> for Font Manager', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/pages/page-about-colored/',
             'type'                       => 'page',
@@ -384,6 +379,7 @@ function omnis_ocdi_import_files() {
 				wp_kses( __('<span>⤥ (Media) Illustration Portraits</span> for [vc_single_image] shortcodes.', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>(Page) Page - Services - Split</span>', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>⤥ (Media) Portraits</span> for [vc_single_image] shortcodes.', 'omnis'), array('span' => array()) ),
+				wp_kses( __('<span>↑ (Template) Template - 100% Width</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/pages/page-about-split/',
             'type'                       => 'page',
@@ -434,7 +430,6 @@ function omnis_ocdi_import_files() {
 				wp_kses( __('<span>⤥ (Media) michal-kubalczyk-257107-unsplash</span> for Featured Image', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>↑ (Template) Page - Minimal (880px) - Heading Typo</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>⤥ (Element) Titlebar - Minimal</span> for Template \'Title Bar Elements\' Option', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>↑ (Font) Playfair Display</span> for Font Manager', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/pages/page-about-minimal/',
             'type'                       => 'page',
@@ -486,7 +481,6 @@ function omnis_ocdi_import_files() {
 			'attached_elements_settings' => array(
 				wp_kses( __('<span>↑ (Template) Page - Minimal (880px) - Heading Typo</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>⤥ (Element) Titlebar - Minimal</span> for Template \'Title Bar Elements\' Option', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>↑ (Font) Playfair Display</span> for Font Manager', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/blog-grid-baseline/',
             'type'                       => 'page',
@@ -528,7 +522,6 @@ function omnis_ocdi_import_files() {
 			'import_notice'              => $_page_notice,
 			'attached_elements_settings' => array(
 				wp_kses( __('<span>↑ (Template) Template - 100% Width</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>↑ (Font) Playfair Display</span> for Font Manager', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/blog-reveal-thumb/',
             'type'                       => 'page',
@@ -566,7 +559,6 @@ function omnis_ocdi_import_files() {
 				wp_kses( __('<span>↑ (Template) Page - Dark with Pinned BG Titlebar (1300px)</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>⤥ (Element) Titlebar - Pinned - Fade Out - (80vh)</span> for Template \'Title Bar Elements\' Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>⤥ (Media) pills_bg_top_f-dark.png</span> for [vc_row] BG image', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>↑ (Font) Playfair Display</span> for Font Manager', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/works-grid-rounded/',
             'type'                       => 'page',
@@ -629,7 +621,7 @@ function omnis_ocdi_import_files() {
 			'import_widget_file_url'     => plugin_dir_url( __FILE__ ) . 'widgets/main-sidebar.json',
 			'import_notice'              => $_page_notice,
 			'attached_elements_settings' => array(
-				wp_kses( __('<span>↑ (Font) Playfair Display</span> for Font Manager', 'omnis'), array('span' => array()) ),
+				wp_kses( __('<span>↑ (Template) Template - 100%</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>↑ (Widgets) main-sidebar</span> for Widgets', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/blog-side-masonry-thumbnails/',
@@ -761,7 +753,6 @@ function omnis_ocdi_import_files() {
 			'import_notice'              => $_page_notice,
 			'attached_elements_settings' => array(
 				wp_kses( __('<span>↑ (Element) Titlebar - Shifted Subtitle Dark</span> for Page \'Title Bar Elements\' Option', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>⤥ (Media) three_figures_f_dark_cut.png</span> for Titlebar [vc_row] BG image', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>↑ (Template) Template - Dark</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/blog-lateral-large-thumb-dark/',
@@ -832,8 +823,7 @@ function omnis_ocdi_import_files() {
 			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_portfolio-featured.jpg',
 			'import_notice'              => $_page_notice,
 			'attached_elements_settings' => array(
-				wp_kses( __('<span>↑ (Template) Template - Modern Page - Alt Typo</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>↑ (Font) Playfair Display</span> for Font Manager', 'omnis'), array('span' => array()) ),
+				wp_kses( __('<span>↑ (Template) Template - Modern Page</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-portfolio-featured/',
             'type'                       => 'home',
@@ -994,7 +984,6 @@ function omnis_ocdi_import_files() {
 			'attached_elements_settings' => array(
 				wp_kses( __('<span>⤥ (Media) images</span> for [vc_gallery] social gallery shortcodes', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>↑ (Template) Home Template - Shop Classic</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>↑ (Font) Playfair Display</span> for Font Manager', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-shop-classic/',
             'type'                       => 'home',
@@ -1085,7 +1074,6 @@ function omnis_ocdi_import_files() {
 				wp_kses( __('<span>⤥ (Media) krisztian-tabori-785758-unsplash</span> for [vc_single_image] ad image shortcode', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>⤥ (Media) Logos</span> for [vc_gallery] partners gallery shortcode', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>↑ (Template) Home Template - Blog Classic</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>↑ (Font) Playfair Display</span> for Font Manager', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-blog-classic/',
             'type'                       => 'home',
@@ -1098,6 +1086,20 @@ function omnis_ocdi_import_files() {
 			'import_notice'              => $_page_notice,
 			'attached_elements_settings' => array(
 				wp_kses( __('<span>↑ (Template) Template - Dark (100%)</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
+			),
+            'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-blog-grid/',
+            'type'                       => 'home',
+		),
+		array(
+			'import_file_name'           => esc_html__('Home - Portfolio Metro', 'omnis'),
+			'categories'                 => array( 'Template', 'Page', 'Home', 'Dark'),
+			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/home/home_portfolio-metro.xml',
+			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_portfolio-metro.jpg',
+			'import_notice'              => $_page_notice,
+			'attached_elements_settings' => array(
+				wp_kses( __('<span>↑ (Template) Template - Dark</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
+				wp_kses( __('<span>⤥ (Media) Logos</span> for [vc_gallery] partners gallery shortcode', 'omnis'), array('span' => array()) ),
+				wp_kses( __('<span>⤥ (Media) portrait_images</span> for [vc_single_image] \'Portrait\' shortcodes', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-blog-grid/',
             'type'                       => 'home',
@@ -1137,7 +1139,8 @@ function omnis_ocdi_import_files() {
 				wp_kses( __('<span>(Template) Template - No Titlebar</span> for \'Templates -> Product\' Theme Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>(Template) Archive/Search - Rounded Section</span> for \'Templates -> Archive\' Theme Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>(Template) Archive/Search - Bordered Sidebar (100%)</span> for \'Templates -> Search\' Theme Option', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>(Element) Overlay - Additional Content - Buy</span> for \'Layout -> Top Content Elements\' Theme Option', 'omnis'), array('span' => array()) ),
+				wp_kses( __('<span>(Element) Overlay - Additional Content - Buy</span> for \'Layout -> Overlay Elements\' Theme Option', 'omnis'), array('span' => array()) ),
+				wp_kses( __('<span>(Element) Top Content - Welcome (#5631e2)</span> for \'Layout -> Top Content Elements\' Theme Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>(Media) Logos</span> for \'Logos\' Theme Option', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/',
