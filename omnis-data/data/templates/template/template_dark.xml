@@ -98,7 +98,7 @@
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_footer__bg-color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:1:"1";s:4:"rgba";s:0:"";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:0:"";s:5:"alpha";s:0:"";s:4:"rgba";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_footer__links]]></wp:meta_key>
@@ -138,11 +138,11 @@
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_content__inputs_bg_color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:6:{s:2:"bg";s:7:"#252525";s:8:"bg-alpha";s:1:"1";s:7:"bg-rgba";s:16:"rgba(37,37,37,1)";s:4:"text";s:0:"";s:10:"text-alpha";s:0:"";s:9:"text-rgba";s:0:"";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:3:{s:4:"text";s:0:"";s:10:"text-alpha";s:0:"";s:9:"text-rgba";s:0:"";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_content__border_color]]></wp:meta_key>
-            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#ffffff";s:5:"alpha";s:3:"0.1";s:4:"rgba";s:21:"rgba(255,255,255,0.1)";}]]></wp:meta_value>
+            <wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#ffffff";s:5:"alpha";s:4:"0.14";s:4:"rgba";s:22:"rgba(255,255,255,0.14)";}]]></wp:meta_value>
             </wp:postmeta>
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_nav__height]]></wp:meta_key>
@@ -191,6 +191,30 @@
                                 <wp:postmeta>
             <wp:meta_key><![CDATA[meta_omnis__layout_footer__container-width-value]]></wp:meta_key>
             <wp:meta_value><![CDATA[a:1:{s:5:"width";s:0:"";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[omnis__layout_content__h1-size]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:11:"font-weight";s:12:"meta-inherit";s:9:"font-size";s:0:"";s:11:"line-height";s:0:"";s:14:"letter-spacing";s:0:"";s:14:"text-transform";s:12:"meta-inherit";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[omnis__layout_content__h2-size]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:11:"font-weight";s:12:"meta-inherit";s:9:"font-size";s:0:"";s:11:"line-height";s:0:"";s:14:"letter-spacing";s:0:"";s:14:"text-transform";s:12:"meta-inherit";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[omnis__layout_content__h3-size]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:11:"font-weight";s:12:"meta-inherit";s:9:"font-size";s:0:"";s:11:"line-height";s:0:"";s:14:"letter-spacing";s:0:"";s:14:"text-transform";s:12:"meta-inherit";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[omnis__layout_content__h4-size]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:11:"font-weight";s:12:"meta-inherit";s:9:"font-size";s:0:"";s:11:"line-height";s:0:"";s:14:"letter-spacing";s:0:"";s:14:"text-transform";s:12:"meta-inherit";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[omnis__layout_content__h5-size]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:11:"font-weight";s:12:"meta-inherit";s:9:"font-size";s:0:"";s:11:"line-height";s:0:"";s:14:"letter-spacing";s:0:"";s:14:"text-transform";s:12:"meta-inherit";}]]></wp:meta_value>
+            </wp:postmeta>
+                                <wp:postmeta>
+            <wp:meta_key><![CDATA[omnis__layout_content__h6-size]]></wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:11:"font-weight";s:12:"meta-inherit";s:9:"font-size";s:0:"";s:11:"line-height";s:0:"";s:14:"letter-spacing";s:0:"";s:14:"text-transform";s:12:"meta-inherit";}]]></wp:meta_value>
             </wp:postmeta>
 		</item>
     </channel>

@@ -5,18 +5,18 @@ function omnis_ocdi_import_files() {
 	$_page_notice = esc_html__( 'After you import this demo page make sure all \'Attached Items\' are set in page Page Options.', 'omnis' );
 	return array(
         // templates
-		array(
-			'import_file_name'           => esc_html__('Post - Large Side Thumbnail', 'omnis'),
-			'categories'                 => array( 'Template', 'Post Template'),
-			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/post/post_large-thumb-side.xml',
-			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/post/post_large-thumb-side.jpg',
-			'import_notice'              => $_templates_notice,
-			'attached_elements_settings' => array(
-				wp_kses( __('<span>(Element) Titlebar - Split (Side Image)</span> for Title Bar -> Title Bar Elements', 'omnis'), array('span' => array()) ),
-			),
-            'preview_url'                => 'https://demo.loprd.pl/omnis/dp/give-us-any-rule-well-break-it/?omnis_template=2543',
-            'type'                       => 'template',
-		),
+		// array(
+		// 	'import_file_name'           => esc_html__('Post - Large Side Thumbnail', 'omnis'),
+		// 	'categories'                 => array( 'Template', 'Post Template'),
+		// 	'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/post/post_large-thumb-side.xml',
+		// 	'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/post/post_large-thumb-side.jpg',
+		// 	'import_notice'              => $_templates_notice,
+		// 	'attached_elements_settings' => array(
+		// 		wp_kses( __('<span>(Element) Titlebar - Split (Side Image)</span> for Title Bar -> Title Bar Elements', 'omnis'), array('span' => array()) ),
+		// 	),
+        //     'preview_url'                => 'https://demo.loprd.pl/omnis/dp/give-us-any-rule-well-break-it/?omnis_template=2543',
+        //     'type'                       => 'template',
+		// ),
 		array(
 			'import_file_name'           => esc_html__('Post - Splitted', 'omnis'),
 			'categories'                 => array( 'Template', 'Post Template'),
@@ -178,6 +178,18 @@ function omnis_ocdi_import_files() {
             'preview_url'                => 'https://demo.loprd.pl/omnis/dp/project/vitae-app/?omnis_template=4732',
             'type'                       => 'template',
 		),
+		array(
+			'import_file_name'           => esc_html__('Project - Justified Gallery', 'omnis'),
+			'categories'                 => array( 'Template', 'Portfolio Template'),
+			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/portfolio/portfolio_justified-gallery.xml',
+			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/portfolio/portfolio_justified-gallery.jpg',
+			'import_notice'              => $_templates_notice,
+			'attached_elements_settings' => array(
+				wp_kses( __('<span>(Element) Project – Meta Data Column</span> for Extra Content (optional)', 'omnis'), array('span' => array()) ),
+			),
+            'preview_url'                => 'https://demo.loprd.pl/omnis/dp/project/vitae-app/?omnis_template=13441',
+            'type'                       => 'template',
+		),
 
 		
 		array(
@@ -206,7 +218,7 @@ function omnis_ocdi_import_files() {
 		),
 		
 		array(
-			'import_file_name'           => esc_html__('Template - Dark (880px)', 'omnis'),
+			'import_file_name'           => esc_html__('Template - Dark (800px)', 'omnis'),
 			'categories'                 => array( 'Template', 'Post Template', 'Page Template', 'Dark'),
 			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/template/template_default-dark-880px.xml',
 			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/template/template_default-dark-880px.jpg',
@@ -216,7 +228,7 @@ function omnis_ocdi_import_files() {
             'type'                       => 'template',
 		),
 		array(
-			'import_file_name'           => esc_html__('Template - 880px', 'omnis'),
+			'import_file_name'           => esc_html__('Template - 800px', 'omnis'),
 			'categories'                 => array( 'Template', 'Post Template', 'Page Template'),
 			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/template/template_default-880px.xml',
 			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/template/template_default-880px.jpg',
@@ -486,18 +498,16 @@ function omnis_ocdi_import_files() {
             'type'                       => 'page',
 		),
 		array(
-			'import_file_name'           => esc_html__('Blog - Grid Centered (2 Cols)', 'omnis'),
+			'import_file_name'           => esc_html__('Blog - Grid w/ Overlay (2 Cols)', 'omnis'),
 			'categories'                 => array( 'Template', 'Page', 'Blog'),
-			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/page/page_blog-grid-centered-2-cols.xml',
-			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/page/page_blog-grid-centered-2-cols.jpg',
+			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/page/page_blog-grid-w-overlay-2-cols.xml',
+			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/page/page_blog-grid-w-overlay-2-cols.jpg',
 			'import_notice'              => $_page_notice,
 			'attached_elements_settings' => array(
-				wp_kses( __('<span>⤥ (Media) michal-kubalczyk-257107-unsplash.jpg</span> for Featured Image', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>⤥ (Element) Titlebar - Large Subtitle - Centered Extended</span> for Page \'Title Bar Elements\' Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>↑ (Template) Template - Modern Page</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>⤥ (Element) Titlebar - Large Subtitle - Simple</span> for Template \'Title Bar Elements\' Option', 'omnis'), array('span' => array()) ),
 			),
-            'preview_url'                => 'https://demo.loprd.pl/omnis/blog-grid-centered-2-cols/',
+            'preview_url'                => 'https://demo.loprd.pl/omnis/blog-grid-squared-2-cols/',
             'type'                       => 'page',
 		),
 		array(
@@ -681,17 +691,39 @@ function omnis_ocdi_import_files() {
             'type'                       => 'page',
 		),
 		array(
-			'import_file_name'           => esc_html__('Blog - Slider (3 Cols)', 'omnis'),
+			'import_file_name'           => esc_html__('Blog - Grid with Subtitles', 'omnis'),
+			'categories'                 => array( 'Page', 'Blog'),
+			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/page/page_blog-grid-with-subtitles.xml',
+			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/page/page_blog-grid-with-subtitles.jpg',
+			'import_notice'              => $_page_notice,
+			'attached_elements_settings' => array(
+			),
+            'preview_url'                => 'https://demo.loprd.pl/omnis/blog-grid-w-subtitles/',
+            'type'                       => 'page',
+		),
+		array(
+			'import_file_name'           => esc_html__('Works - Large Grid', 'omnis'),
+			'categories'                 => array( 'Page', 'Works'),
+			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/page/page_works-large-grid.xml',
+			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/page/page_works-large-grid.jpg',
+			'import_notice'              => $_page_notice,
+			'attached_elements_settings' => array(
+			),
+            'preview_url'                => 'https://demo.loprd.pl/omnis/works-large-grid/',
+            'type'                       => 'page',
+		),
+		array(
+			'import_file_name'           => esc_html__('Blog - Slider (4 Cols)', 'omnis'),
 			'categories'                 => array( 'Template', 'Page', 'Blog', 'Dark'),
-			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/page/page_blog-slider-3cols.xml',
-			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/page/page_blog-slider-3cols.jpg',
+			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/page/page_blog-slider-4cols.xml',
+			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/page/page_blog-slider-4cols.jpg',
 			'import_notice'              => $_page_notice,
 			'attached_elements_settings' => array(
 				wp_kses( __('<span>⤥ (Media) oliver-pecker-364272-unsplash.jpg</span> for Featured Image', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>↑ (Template) Page Template - Grid</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>⤥ (Element) Titlebar - Grid (100vh)</span> for Template \'Title Bar Elements\' Option', 'omnis'), array('span' => array()) ),
 			),
-            'preview_url'                => 'https://demo.loprd.pl/omnis/blog-slider-3cols/',
+            'preview_url'                => 'https://demo.loprd.pl/omnis/blog-slider-4cols/',
             'type'                       => 'page',
 		),
 		array(
@@ -797,6 +829,7 @@ function omnis_ocdi_import_files() {
 				wp_kses( __('<span>↑ (Template) Template - Modern Page</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>⤥ (Media) Demo Images</span> for Demo Gallery Slider', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>⤥ (Media) Graphics</span> for Features', 'omnis'), array('span' => array()) ),
+				wp_kses( __('<span>⤥ (Media) RevSlider Images</span>', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/',
             'type'                       => 'home',
@@ -816,18 +849,18 @@ function omnis_ocdi_import_files() {
             'type'                       => 'home',
 		),
 
-		array(
-			'import_file_name'           => esc_html__('Home - Portfolio Featured', 'omnis'),
-			'categories'                 => array( 'Template', 'Page', 'Home'),
-			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/home/home_portfolio-featured.xml',
-			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_portfolio-featured.jpg',
-			'import_notice'              => $_page_notice,
-			'attached_elements_settings' => array(
-				wp_kses( __('<span>↑ (Template) Template - Modern Page</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
-			),
-            'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-portfolio-featured/',
-            'type'                       => 'home',
-		),
+		// array(
+		// 	'import_file_name'           => esc_html__('Home - Portfolio Featured', 'omnis'),
+		// 	'categories'                 => array( 'Template', 'Page', 'Home'),
+		// 	'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/home/home_portfolio-featured.xml',
+		// 	'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_portfolio-featured.jpg',
+		// 	'import_notice'              => $_page_notice,
+		// 	'attached_elements_settings' => array(
+		// 		wp_kses( __('<span>↑ (Template) Template - Modern Page</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
+		// 	),
+        //     'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-portfolio-featured/',
+        //     'type'                       => 'home',
+		// ),
 		array(
 			'import_file_name'           => esc_html__('Home - Agency', 'omnis'),
 			'categories'                 => array( 'Template', 'Page', 'Home'),
@@ -849,11 +882,10 @@ function omnis_ocdi_import_files() {
 			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_interactive-studio.jpg',
 			'import_notice'              => $_page_notice,
 			'attached_elements_settings' => array(
-				wp_kses( __('<span>↑ (Media) potrait images</span> for [vc_single_image] portrait image', 'omnis'), array('span' => array()) ),
+				wp_kses( __('<span>↑ (Media) potrait image</span> for [vc_single_image] portrait image', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>↑ (Template) Template - Modern Page</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>⤥ (Element) Titlebar - Large Subtitle - Simple</span> for Template \'Title Bar Elements\' Option', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>↑ (Font) Playfair Display</span> for Font Manager', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>↗ (Slider) home-interactive.zip</span> Slider for Revolution Sliders (manual export)', 'omnis'), array('span' => array()) ),
+				wp_kses( __('<span>⤥ (Element) Top Content - Welcome (Adaptive)</span> for Template \'Top Content Element\' Option', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-interactive-studio/',
             'type'                       => 'home',
@@ -883,19 +915,19 @@ function omnis_ocdi_import_files() {
             'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-personal/',
             'type'                       => 'home',
 		),
-		array(
-			'import_file_name'           => esc_html__('Home - App Landing', 'omnis'),
-			'categories'                 => array( 'Template', 'Page', 'Home'),
-			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/home/home_app-landing.xml',
-			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_app-landing.jpg',
-			'import_notice'              => $_page_notice,
-			'attached_elements_settings' => array(
-				wp_kses( __('<span>↑ (Template) Home Template - Landing App</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>↗ (Slider) home-devices.zip</span> Slider for Revolution Sliders (manual export)', 'omnis'), array('span' => array()) ),
-			),
-            'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-app-landing/',
-            'type'                       => 'home',
-		),
+		// array(
+		// 	'import_file_name'           => esc_html__('Home - App Landing', 'omnis'),
+		// 	'categories'                 => array( 'Template', 'Page', 'Home'),
+		// 	'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/home/home_app-landing.xml',
+		// 	'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_app-landing.jpg',
+		// 	'import_notice'              => $_page_notice,
+		// 	'attached_elements_settings' => array(
+		// 		wp_kses( __('<span>↑ (Template) Home Template - Landing App</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
+		// 		wp_kses( __('<span>↗ (Slider) home-devices.zip</span> Slider for Revolution Sliders (manual export)', 'omnis'), array('span' => array()) ),
+		// 	),
+        //     'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-app-landing/',
+        //     'type'                       => 'home',
+		// ),
 		array(
 			'import_file_name'           => esc_html__('Home - Mobile App Landing', 'omnis'),
 			'categories'                 => array( 'Page', 'Home'),
@@ -919,6 +951,19 @@ function omnis_ocdi_import_files() {
 				wp_kses( __('<span>↑ (Template) Home Template - Blocks</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 			),
             'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-personal-portfolio/',
+            'type'                       => 'home',
+		),
+		array(
+			'import_file_name'           => esc_html__('Home - Portfolio Intro', 'omnis'),
+			'categories'                 => array( 'Page', 'Home'),
+			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/home/home_portfolio-intro.xml',
+			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_portfolio-intro.jpg',
+			'import_notice'              => $_page_notice,
+			'attached_elements_settings' => array(
+				wp_kses( __('<span>↑ (Template) Template - 100% Width</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
+				wp_kses( __('<span>↑ (Element) Home Intro - Portfolio Intro</span> for \'Top Content\' Option', 'omnis'), array('span' => array()) ),
+			),
+            'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-portfolio-intro/',
             'type'                       => 'home',
 		),
 		array(
@@ -975,19 +1020,19 @@ function omnis_ocdi_import_files() {
             'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-archi-studio/',
             'type'                       => 'home',
 		),
-		array(
-			'import_file_name'           => esc_html__('Home - Shop Classic', 'omnis'),
-			'categories'                 => array( 'Template', 'Page', 'Home'),
-			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/home/home_shop-classic.xml',
-			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_shop-classic.jpg',
-			'import_notice'              => $_page_notice,
-			'attached_elements_settings' => array(
-				wp_kses( __('<span>⤥ (Media) images</span> for [vc_gallery] social gallery shortcodes', 'omnis'), array('span' => array()) ),
-				wp_kses( __('<span>↑ (Template) Home Template - Shop Classic</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
-			),
-            'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-shop-classic/',
-            'type'                       => 'home',
-		),
+		// array(
+		// 	'import_file_name'           => esc_html__('Home - Shop Classic', 'omnis'),
+		// 	'categories'                 => array( 'Template', 'Page', 'Home'),
+		// 	'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/home/home_shop-classic.xml',
+		// 	'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_shop-classic.jpg',
+		// 	'import_notice'              => $_page_notice,
+		// 	'attached_elements_settings' => array(
+		// 		wp_kses( __('<span>⤥ (Media) images</span> for [vc_gallery] social gallery shortcodes', 'omnis'), array('span' => array()) ),
+		// 		wp_kses( __('<span>↑ (Template) Home Template - Shop Classic</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
+		// 	),
+        //     'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-shop-classic/',
+        //     'type'                       => 'home',
+		// ),
 		array(
 			'import_file_name'           => esc_html__('Home - Shop Minimal', 'omnis'),
 			'categories'                 => array( 'Template', 'Page', 'Home'),
@@ -1020,11 +1065,22 @@ function omnis_ocdi_import_files() {
 			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_corporate.jpg',
 			'import_notice'              => $_page_notice,
 			'attached_elements_settings' => array(
-				wp_kses( __('<span>⤥ (Media) maurizio-vele-1182937-unsplash.jpg</span> for [vc_single_image] shortcode', 'omnis'), array('span' => array()) ),
+				wp_kses( __('<span>⤥ (Media) Portrait Images</span> for [vc_single_image] shortcode', 'omnis'), array('span' => array()) ),
+			),
+            'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-corporate/',
+            'type'                       => 'home',
+		),
+		array(
+			'import_file_name'           => esc_html__('Home - Business', 'omnis'),
+			'categories'                 => array( 'Template', 'Page', 'Home'),
+			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/home/home_business.xml',
+			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_business.jpg',
+			'import_notice'              => $_page_notice,
+			'attached_elements_settings' => array(
 				wp_kses( __('<span>↑ (Template) Template - Modern Page</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
 				wp_kses( __('<span>⤥ (Element) Titlebar - Large Subtitle - Simple</span> for Template \'Title Bar Elements\' Option', 'omnis'), array('span' => array()) ),
 			),
-            'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-corporate/',
+            'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-business/',
             'type'                       => 'home',
 		),
 		array(
@@ -1040,18 +1096,18 @@ function omnis_ocdi_import_files() {
             'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-music-club/',
             'type'                       => 'home',
 		),
-		array(
-			'import_file_name'           => esc_html__('Home - Grids', 'omnis'),
-			'categories'                 => array( 'Template', 'Page', 'Home'),
-			'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/home/home_grids.xml',
-			'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_grids.jpg',
-			'import_notice'              => $_page_notice,
-			'attached_elements_settings' => array(
-				wp_kses( __('<span>↑ (Template) Home Template - Side Nav Right</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
-			),
-            'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-grids/',
-            'type'                       => 'home',
-		),
+		// array(
+		// 	'import_file_name'           => esc_html__('Home - Grids', 'omnis'),
+		// 	'categories'                 => array( 'Template', 'Page', 'Home'),
+		// 	'import_file_url'            => plugin_dir_url( __FILE__ ) . 'templates/home/home_grids.xml',
+		// 	'import_preview_image_url'   => plugin_dir_url( __FILE__ ) . 'templates/home/home_grids.jpg',
+		// 	'import_notice'              => $_page_notice,
+		// 	'attached_elements_settings' => array(
+		// 		wp_kses( __('<span>↑ (Template) Home Template - Side Nav Right</span> for \'Page Template\' Option', 'omnis'), array('span' => array()) ),
+		// 	),
+        //     'preview_url'                => 'https://demo.loprd.pl/omnis/home/home-grids/',
+        //     'type'                       => 'home',
+		// ),
 		array(
 			'import_file_name'           => esc_html__('Home - Blog Splitted', 'omnis'),
 			'categories'                 => array( 'Template', 'Page', 'Home', 'Dark'),
