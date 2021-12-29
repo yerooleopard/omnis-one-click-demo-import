@@ -4,7 +4,7 @@
 Plugin Name: Omnis One Click Demo Import
 Plugin URI: https://wordpress.org/plugins/one-click-demo-import/
 Description: Import your content, widgets and theme settings with one click. Theme authors! Enable simple demo import for your theme demo data.
-Version: 0.7.1
+Version: 0.7.2
 Original Version: 3.0.2
 Author: OCDI & LeopardThemes
 Author URI: https://ocdi.com

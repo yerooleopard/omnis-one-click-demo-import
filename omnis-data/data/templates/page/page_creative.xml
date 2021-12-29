@@ -919,7 +919,7 @@
             <wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:120;s:4:"file";s:21:"2019/01/logo_ante.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"logo_ante-150x120.png";s:5:"width";i:150;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:21:"logo_ante-300x120.png";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";}s:8:"dominant";a:4:{s:4:"file";s:19:"logo_ante-10x10.png";s:5:"width";i:10;s:6:"height";i:10;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:21:"logo_ante-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:21:"logo_ante-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
             </wp:postmeta>
 	</item>
-    item>
+    <item>
 		<title><![CDATA[unsplash_photo_15]]></title>
 		<link>https://demo.loprd.pl/omnis/dp/give-us-any-rule-well-break-it/unsplash_photo_15/</link>
 		<pubDate>Thu, 27 May 2021 12:46:19 +0000</pubDate>
