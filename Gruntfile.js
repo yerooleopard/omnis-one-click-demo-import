@@ -18,6 +18,7 @@ module.exports = function(grunt){
 						'!.gitignore',
 						'!.git',
 	                	'!<%= pkg.name %>.zip',
+						'!package-lock.json',
 	                	'!_zip/**',
 	                	'!_toRemove/**'
 	                ],
